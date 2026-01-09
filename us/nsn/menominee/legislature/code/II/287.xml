@@ -4,7 +4,7 @@
   <num>287</num>
   <heading>CONSERVATION CODE</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-1999 by Ord. No. 99-01; amended in its entirety 10-1-2020 by Ord. No. 20-25. Subsequent amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-1999 by Ord. No. 99-01; amended in its entirety 10-1-2020 by Ord. No. 20-25. Subsequent amendments noted where applicable</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -147,7 +147,7 @@
   <section>
     <prefix>§</prefix>
     <num>287-6</num>
-    <heading>Composition of Conservation Commission. [Amended 3-21-2024 by Ord. No. 24-10]</heading>
+    <heading>Composition of Conservation Commission.</heading>
     <para>
       <num>A.</num>
       <text>Establishment and purpose of Commission. The Menominee Conservation Commission is hereby established for the purpose of:</text>
@@ -260,6 +260,9 @@
       <num>C.</num>
       <text>Establishment of bylaws. The Commission may adopt such bylaws as it deems appropriate.</text>
     </para>
+    <annotations>
+      <annotation type="History">Amended 3-21-2024 by Ord. No. 24-10</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>
@@ -851,10 +854,13 @@
   <section>
     <prefix>§</prefix>
     <num>287-16</num>
-    <heading>When effective. [Amended 4-21-2022 by Ord. No. 22-04]</heading>
+    <heading>When effective.</heading>
     <para>
       <num>A.</num>
       <text><cite path="|II|287">This chapter</cite> shall take effect immediately upon final approval by the Menominee Tribal Legislature.</text>
     </para>
+    <annotations>
+      <annotation type="History">Amended 4-21-2022 by Ord. No. 22-04</annotation>
+    </annotations>
   </section>
 </container>

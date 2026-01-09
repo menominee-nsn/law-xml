@@ -4,7 +4,7 @@
   <num>18</num>
   <heading>BUSINESSES</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
     <annotation type="General References">Enrollment — See <cite path="|I|69">Ch. 69</cite>.</annotation>
     <annotation type="General References">Charters — See <cite>Part IV</cite>.</annotation>
   </annotations>
@@ -27,8 +27,11 @@
     <section>
       <prefix>§</prefix>
       <num>18-3</num>
-      <heading>Authority of tribal businesses to create separate legal entities. [Amended 4-4-2024 by Ord. No. 24-17]</heading>
+      <heading>Authority of tribal businesses to create separate legal entities.</heading>
       <text>Any tribal business chartered pursuant to Article XIII of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin ("tribal business"), in addition to any powers granted to such tribal business in its charter, has the power to acquire, create, act through and control Special Purpose Legal Entities.</text>
+      <annotations>
+        <annotation type="History">Amended 4-4-2024 by Ord. No. 24-17</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -54,9 +57,12 @@
     <section>
       <prefix>§</prefix>
       <num>18-5</num>
-      <heading>Treatment of tribal businesses as members. [Amended 4-4-2024 by Ord. No. 24-17]</heading>
+      <heading>Treatment of tribal businesses as members.</heading>
       <text>Tribal businesses and Special Purpose Legal Entities shall be deemed members of the Menominee Indian Tribe for the purposes of Article X, Section 2(b), of the Constitution and Bylaws of the Menominee Indian Tribe of Wisconsin and eligible to lease tribal lands pursuant to that section as long as such</text>
       <text>tribal business or Special Purpose Legal Entity is ultimately either wholly owned or wholly controlled by enrolled members of the Menominee Indian Tribe of Wisconsin.</text>
+      <annotations>
+        <annotation type="History">Amended 4-4-2024 by Ord. No. 24-17</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>

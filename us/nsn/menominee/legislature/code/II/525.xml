@@ -4,9 +4,9 @@
   <num>525</num>
   <heading>TRIBAL LANDS</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable.</annotation>
-    <annotation type="General References">Descendant register — See <cite path="|I|46">Ch. 46</cite>. Illegal settling — See <cite path="|II|490">Ch. 490</cite>, Art. I.</annotation>
-    <annotation type="General References">Trespassing on tribal/private property — See <cite path="|II|523">Ch. 523</cite>, Art. I.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Descendant register — See <cite path="|I|46">Ch. 46</cite>. Illegal settling — See <cite path="|II|490|I">Ch. 490, Art. I</cite>.</annotation>
+    <annotation type="General References">Trespassing on tribal/private property — See <cite path="|II|523|I">Ch. 523, Art. I</cite>.</annotation>
   </annotations>
   <container cache:ref-path="II|525|I">
     <prefix>Article</prefix>

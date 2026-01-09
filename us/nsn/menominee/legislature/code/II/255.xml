@@ -4,7 +4,7 @@
   <num>255</num>
   <heading>ANIMALS</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
     <annotation type="General References">Conservation Code — See <cite path="|II|287">Ch. 287</cite>.</annotation>
     <annotation type="General References">Noise — See <cite path="|II|429">Ch. 429</cite>.</annotation>
   </annotations>
@@ -30,7 +30,7 @@
     <section>
       <prefix>§</prefix>
       <num>255-2</num>
-      <heading>Definitions. [Amended 11-16-2017 by Ord. No. 17-25; 5-2-2024 by Ord. No. 24-16]</heading>
+      <heading>Definitions.</heading>
       <text>As used in <cite path="|II|255|I">this article</cite>, the following terms shall have the meanings indicated:</text>
       <text>CONTROLLED — Confined by leash, chain, pen, or other restraint on the owner's premises or to the owner's person.</text>
       <text>DANGEROUS DOG — Any dog which:</text>
@@ -85,6 +85,9 @@
         <text>Barks, whines, or howls in an excessive, continuous, or untimely fashion.</text>
         <text>RUNNING AT LARGE — Not controlled under the definition of "controlled" above.</text>
       </para>
+      <annotations>
+        <annotation type="History">Amended 11-16-2017 by Ord. No. 17-25; 5-2-2024 by Ord. No. 24-16</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -219,7 +222,7 @@
     <section>
       <prefix>§</prefix>
       <num>255-10</num>
-      <heading>Licensing. [Amended 11-21-2013 by Ord. No. 13-41]</heading>
+      <heading>Licensing.</heading>
       <para>
         <num>A.</num>
         <text>Any person owning, keeping, harboring, or having custody of any dog over three months of age within the Reservation must obtain a license as herein provided.</text>
@@ -276,6 +279,9 @@
         <num>I.</num>
         <text>Licenses shall be effective for one year, from the first day of January to the 31st day of December, and renewable by the Licensing and Permit Department 10 days prior to expiration date, with no prorated fees.</text>
       </para>
+      <annotations>
+        <annotation type="History">Amended 11-21-2013 by Ord. No. 13-41</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -372,7 +378,7 @@
     <section>
       <prefix>§</prefix>
       <num>255-13.1</num>
-      <heading>Dangerous dogs. [Amended 5-2-2024 by Ord. No. 24-16]</heading>
+      <heading>Dangerous dogs.</heading>
       <para>
         <num>A.</num>
         <text>Possession of dangerous dog prohibited. No person shall own, keep, possess, or harbor a dangerous dog within the exterior boundaries of the Menominee Indian Reservation.</text>
@@ -393,6 +399,9 @@
         <num>E.</num>
         <text>If the owner objects to the declaration of dangerousness, they may file a letter with the Clerk of Court within 48 hours to have the dog held until the court hearing. Upon filing an objection, the owner shall pay a deposit of $150 for storage of the dog, to be charged at a rate of $5/day until the court hearing.</text>
       </para>
+      <annotations>
+        <annotation type="History">Amended 5-2-2024 by Ord. No. 24-16</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>

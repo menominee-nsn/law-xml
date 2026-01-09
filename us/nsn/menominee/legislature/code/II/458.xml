@@ -4,7 +4,7 @@
   <num>458</num>
   <heading>PROPERTY ADDRESS NUMBERING AND ROAD NAMING</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-18-2000 by Ord. No. 00-05. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-18-2000 by Ord. No. 00-05. Amendments noted where applicable</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -499,7 +499,10 @@
   <section>
     <prefix>§</prefix>
     <num>458-14</num>
-    <heading>Amendments. [Amended 10-24-2000]</heading>
+    <heading>Amendments.</heading>
     <text>The Menominee Tribal Legislature and Menominee County Board of Supervisors may from time to time, on their own motion or on petition, amend, supplement, or change <cite path="|II|458">this chapter</cite>.</text>
+    <annotations>
+      <annotation type="History">Amended 10-24-2000</annotation>
+    </annotations>
   </section>
 </container>

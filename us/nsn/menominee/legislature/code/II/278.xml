@@ -4,7 +4,7 @@
   <num>278</num>
   <heading>CHILDREN'S CODE</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 6-21-2018 by Ord. No. 18-11; amended in its entirety 7-16-2020 by Ord. No. 20-16. Subsequent amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 6-21-2018 by Ord. No. 18-11; amended in its entirety 7-16-2020 by Ord. No. 20-16. Subsequent amendments noted where applicable</annotation>
   </annotations>
   <container>
     <prefix>Article</prefix>
@@ -1286,7 +1286,7 @@
     <section>
       <prefix>§</prefix>
       <num>278-22</num>
-      <heading>Failure to appear. [Amended 5-20-2021 by Ord. No. 21-42]</heading>
+      <heading>Failure to appear.</heading>
       <para>
         <num>A.</num>
         <text>In all proceedings conducted pursuant to the provisions of <cite path="|II|278">this chapter</cite>, if the child or the child's parent, guardian or caretaker fails to appear before the Court after being so ordered, the Department shall:</text>
@@ -1311,6 +1311,9 @@
         <num>C.</num>
         <text>If the parties served fail to obey a summons or order of appearance, a capias may be issued for the parent or guardian or for the child.</text>
       </para>
+      <annotations>
+        <annotation type="History">Amended 5-20-2021 by Ord. No. 21-42</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1612,7 +1615,7 @@
     <section>
       <prefix>§</prefix>
       <num>278-28</num>
-      <heading>Parental power of attorney. [Amended 5-20-2021 by Ord. No. 21-42; 7-20-2023 by Ord. No. 23-19]</heading>
+      <heading>Parental power of attorney.</heading>
       <para>
         <num>A.</num>
         <text>A parent who has legal custody of a child, by a power of attorney that is properly executed by all parents who have legal custody of the child, may delegate to another person/agent powers of a parent regarding the care, custody, and property of a child.</text>
@@ -1693,6 +1696,9 @@
         <num>H.</num>
         <text>Notwithstanding any other provision of this section, a delegation for the purposes listed in <cite path="§278-28|C|(1)">Subsection C(1)</cite> related to hospital admissions, or any delegation for the purposes listed in <cite path="§278-28|C|(2)">Subsection C(2)</cite> above, may be made in any form acceptable to the provider of such services, and the duration restrictions stated in <cite path="§278-28|E">Subsection E</cite> above are not applicable to such a delegation.</text>
       </para>
+      <annotations>
+        <annotation type="History">Amended 5-20-2021 by Ord. No. 21-42; 7-20-2023 by Ord. No. 23-19</annotation>
+      </annotations>
     </section>
   </container>
   <container cache:ref-path="II|278|II">
@@ -7883,7 +7889,10 @@
   <container cache:ref-path="II|278|XII">
     <prefix>Article</prefix>
     <num>XII</num>
-    <heading>Child Delinquency Proceedings [Amended 10-29-2020 by Ord. No. 20-29]</heading>
+    <heading>Child Delinquency Proceedings</heading>
+    <annotations>
+      <annotation type="History">Amended 10-29-2020 by Ord. No. 20-29</annotation>
+    </annotations>
     <section>
       <prefix>§</prefix>
       <num>278-160</num>
@@ -10362,7 +10371,7 @@
     <section>
       <prefix>§</prefix>
       <num>278-187</num>
-      <heading>Sanctions. [Amended 12-21-2021 by Ord. No. 21-88]</heading>
+      <heading>Sanctions.</heading>
       <para>
         <num>A.</num>
         <text>Failure to appear. In all delinquency proceedings conducted pursuant to the provision of <cite path="|II|278|XII">this article</cite>:</text>
@@ -10699,6 +10708,9 @@
           <text>A sanction that merely references this section without documenting or referencing that specific information in the sanction order or an amended sanction order that retroactively corrects an earlier sanction order that does not comply with <cite path="§278-187|B.|(3)">this subsection</cite> is not sufficient to comply with <cite path="§278-187|B.|(3)">this subsection</cite>.</text>
         </para>
       </para>
+      <annotations>
+        <annotation type="History">Amended 12-21-2021 by Ord. No. 21-88</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>

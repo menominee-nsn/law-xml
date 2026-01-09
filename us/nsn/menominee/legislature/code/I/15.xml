@@ -4,7 +4,7 @@
   <num>15</num>
   <heading>ARBITRATION</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-1-2008 by Ord. No. 08-06. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-1-2008 by Ord. No. 08-06. Amendments noted where applicable</annotation>
   </annotations>
   <section>
     <prefix>§</prefix>
@@ -15,7 +15,7 @@
   <section>
     <prefix>§</prefix>
     <num>15-2</num>
-    <heading>Applicability. [Amended 1-16-2014 by Ord. No. 13-51]</heading>
+    <heading>Applicability.</heading>
     <text>The provisions of <cite path="|I|15">this chapter</cite> shall apply to:</text>
     <para>
       <num>A.</num>
@@ -37,6 +37,9 @@
       <num>E.</num>
       <text>Any written agreement entered into between Bug Tussel Wireless, LLC and the Menominee Indian Tribe of Wisconsin - Utilities Department executed after April 1, 2021 (hereinafter "applicable contract"). <strong>[Added 4-15-2021 by Ord. No. 21-36]</strong></text>
     </para>
+    <annotations>
+      <annotation type="History">Amended 1-16-2014 by Ord. No. 13-51</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>

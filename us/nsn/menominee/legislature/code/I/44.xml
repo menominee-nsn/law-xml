@@ -4,7 +4,7 @@
   <num>44</num>
   <heading>DEBT COLLECTION</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-2-2003 by Ord. No. 03-17; amended in its entirety 12-4-2014 by Ord. No. 14-26. Subsequent amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 10-2-2003 by Ord. No. 03-17; amended in its entirety 12-4-2014 by Ord. No. 14-26. Subsequent amendments noted where applicable</annotation>
     <annotation type="General References">Accounting system — See <cite path="|I|7">Ch. 7</cite>.</annotation>
     <annotation type="General References">Leases and mortgages — See <cite path="|I|138">Ch. 138</cite>.</annotation>
   </annotations>
@@ -28,7 +28,7 @@
   <section>
     <prefix>§</prefix>
     <num>44-3</num>
-    <heading>Debtor classification. [Amended 8-4-2016 by Ord. No. 16-21; 1-18-2024 by Ord. No. 23-70]</heading>
+    <heading>Debtor classification.</heading>
     <text>The Tribe shall create a list of persons who are debtors. No person shall be placed upon said list unless the following criteria have been met:</text>
     <para>
       <num>A.</num>
@@ -46,12 +46,18 @@
       <num>D.</num>
       <text>The person has not disputed the debt, in writing, within 35 days of the date the letter in <cite path="§44-3|C">Subsection C</cite> above was mailed, or paid the debt in full, or made acceptable arrangements to pay the debt, or the person has disputed the debt but has been determined to owe money to the Tribe pursuant to <cite path="§44-4">§ 44-4</cite> of this chapter.</text>
     </para>
+    <annotations>
+      <annotation type="History">Amended 8-4-2016 by Ord. No. 16-21; 1-18-2024 by Ord. No. 23-70</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>
     <num>44-4</num>
-    <heading>Review of disputed amounts. [Amended 1-18-2024 by Ord. No. 23-70]</heading>
+    <heading>Review of disputed amounts.</heading>
     <text>Any person who disputes the amount of money alleged to be owed to the Tribe pursuant to <cite path="§44-3|B">§ 44-3B</cite> through D of <cite path="|I|44">this chapter</cite> may ask the Loan Fund Committee to review the disputed amount and make a determination as to the amount of money owed the Tribe, if any. The person disputing the debt may bring any relevant evidence to the attention of the Loan Fund Committee and may request a hearing before the Loan Fund Committee for the purpose of presenting his or her argument. The employee or agent of the Tribe who signed the statement in regard to the debt, or any Tribal employee familiar with the issues surrounding the outstanding debt, shall attend this hearing.</text>
+    <annotations>
+      <annotation type="History">Amended 1-18-2024 by Ord. No. 23-70</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>

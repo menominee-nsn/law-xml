@@ -4,7 +4,7 @@
   <num>306</num>
   <heading>DRUGS AND DRUG PARAPHERNALIA</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in part histories. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in part histories. Amendments noted where applicable</annotation>
     <annotation type="General References">Alcoholic beverages — See <cite path="|II|250">Ch. 250</cite>.</annotation>
     <annotation type="General References">Cigarettes and tobacco products — See <cite path="|II|281">Ch. 281</cite>.</annotation>
     <annotation type="General References">Criminal Code — See <cite path="|II|290">Ch. 290</cite>.</annotation>
@@ -2565,7 +2565,7 @@
       <section>
         <prefix>§</prefix>
         <num>306-12</num>
-        <heading>Manufacture, distribution, and dispensing of controlled substances. [Amended 6-20-2024 by Ord. No. 24-29]</heading>
+        <heading>Manufacture, distribution, and dispensing of controlled substances.</heading>
         <para>
           <num>A.</num>
           <text>Persons registered under federal law to manufacture, distribute, dispense or conduct research with controlled substances may possess, manufacture, distribute, dispense or conduct research with those substances on this Reservation to the extent authorized by their federal registration and in conformity with the other provisions of <cite path="|II|306|1|II">this article</cite>.</text>
@@ -2602,6 +2602,9 @@
             <text>Any employee or agent of the Menominee Indian Tribe of Wisconsin acting within the scope of their duties in regard to regulation of businesses licensed to manufacture, distribute, dispense or conduct research with marijuana or cannabis under Tribal Law, and any person or entity performing tests on marijuana or cannabis pursuant to an agreement with such a licensed business.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History">Amended 6-20-2024 by Ord. No. 24-29</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -2672,7 +2675,7 @@
         <heading>Advanced practice nurse limitations.</heading>
         <para>
           <num>A.</num>
-          <text>An advanced practice nurse, also referred to as "nurse practioner," who is certified under § 441.16, Wis. Stats., or certified by a national board and must have been approved for prescriptive authority and must also have an active DEA certificate, may prescribe controlled substances only as permitted by the rules promulgated under the certifying body and the rules governing the prescriptive authority.</text>
+          <text>An advanced practice nurse, also referred to as "nurse practioner," who is certified under <cite doc="Wis. Stat." path="§441.16">§ 441.16, Wis. Stats.</cite>, or certified by a national board and must have been approved for prescriptive authority and must also have an active DEA certificate, may prescribe controlled substances only as permitted by the rules promulgated under the certifying body and the rules governing the prescriptive authority.</text>
         </para>
         <para>
           <num>B.</num>
@@ -2680,7 +2683,7 @@
         </para>
         <para>
           <num>C.</num>
-          <text>An advanced practice nurse as defined above in <cite path="§306-15|A">Subsection A</cite> may dispense a controlled substance only by prescribing or administering the controlled substance or as otherwise permitted by the rules promulgated under § 441.16(3), Wis. Stats., or any federal guidelines governing the national board certification and prescriptive authority.</text>
+          <text>An advanced practice nurse as defined above in <cite path="§306-15|A">Subsection A</cite> may dispense a controlled substance only by prescribing or administering the controlled substance or as otherwise permitted by the rules promulgated under <cite doc="Wis. Stat." path="§441.16|(3)">§ 441.16(3), Wis. Stats.</cite>, or any federal guidelines governing the national board certification and prescriptive authority.</text>
         </para>
       </section>
     </container>
@@ -2691,7 +2694,7 @@
       <section>
         <prefix>§</prefix>
         <num>306-16</num>
-        <heading>Manufacture, distribution or delivery of controlled substances or controlled substance analogs. [Amended 11-19-2020 by Ord. No. 20-35]</heading>
+        <heading>Manufacture, distribution or delivery of controlled substances or controlled substance analogs.</heading>
         <para>
           <num>A.</num>
           <text>Prohibited acts. Except as authorized by <cite path="|II|306|1">this Part</cite> 1, it is unlawful for any person to knowingly or intentionally manufacture, traffic, distribute, dispense or deliver, or possess with the intent to manufacture, distribute, dispense, sell, or deliver, a controlled substance or controlled substance analog. Intent under <cite path="§306-16|A.">this subsection</cite> may be demonstrated by, without limitation because of enumeration, evidence of the quantity and monetary value of the substances possessed, the possession of manufacturing implements or paraphernalia, and the activities or statements of the person in possession of the controlled substance or a controlled substance analog prior to and after the alleged violation.</text>
@@ -2752,11 +2755,14 @@
           <num>C.</num>
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution. If the Tribal prosecution is dismissed due to federal prosecution, the federal conviction(s) may be used by the Tribal Legislature for banishment pursuant to <cite path="|I|80">Chapter 80</cite>. Nothing in <cite path="|II|306">this chapter</cite> restricts or limits the ability of the Tribal Legislature to assert their inherent, sovereign right of exclusion or banishment under tribal law.</text>
         </para>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-17</num>
-        <heading>Counterfeit controlled substances. [Amended 11-19-2020 by Ord. No. 20-35]</heading>
+        <heading>Counterfeit controlled substances.</heading>
         <para>
           <num>A.</num>
           <text>Prohibited act. Except as authorized by <cite path="|II|306|1">this Part</cite> 1, it is unlawful for any person to create, manufacture, distribute, deliver or possess with intent to distribute or deliver a counterfeit controlled substance.</text>
@@ -2785,11 +2791,14 @@
           <num>D.</num>
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-18</num>
-        <heading>Possession of controlled substances or controlled substance analogs. [Amended 11-19-2020 by Ord. No. 20-35]</heading>
+        <heading>Possession of controlled substances or controlled substance analogs.</heading>
         <para>
           <num>A.</num>
           <text>Prohibited act. No person may possess or attempt to possess a controlled substance or a controlled substance analog on his person, in any type of vehicle under his control, or within any type of dwelling in which he lives, visits, or happens to be found, unless the person obtains the substance or the analog directly from, or pursuant to a valid prescription or order of, a practitioner who is acting in the course of his or her professional practice, or unless the person is otherwise authorized by <cite path="|II|306|1">this Part</cite> 1 to possess the substance or the analog.</text>
@@ -2818,11 +2827,14 @@
           <num>C.</num>
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-19</num>
-        <heading>Imitation controlled substances. [Amended 11-19-2020 by Ord. No. 20-35]</heading>
+        <heading>Imitation controlled substances.</heading>
         <para>
           <num>A.</num>
           <text>Prohibited act. No person may knowingly distribute or deliver, attempt to distribute or deliver or cause to be distributed or delivered a noncontrolled substance and expressly or impliedly represent any of the following to the recipient:</text>
@@ -2879,11 +2891,14 @@
           <num>D.</num>
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-20</num>
-        <heading>Maintaining drug dwellings. [Amended 11-19-2020 by Ord. No. 20-35]</heading>
+        <heading>Maintaining drug dwellings.</heading>
         <para>
           <num>A.</num>
           <text>Prohibited act. It is unlawful for any person knowingly to keep or maintain any store, shop, warehouse, dwelling, building, vehicle, boat, aircraft or other structure or place, which is resorted to by persons using controlled substances in violation of <cite path="|II|306|1">this Part</cite> 1 for the purpose of using these substances, or which is used for manufacturing, keeping or delivering them in violation of <cite path="|II|306|1">this Part</cite> 1.</text>
@@ -2920,11 +2935,14 @@
           <num>D.</num>
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-21</num>
-        <heading>Possession of controlled substances by fraud. [Amended 11-19-2020 by Ord. No. 20-35]</heading>
+        <heading>Possession of controlled substances by fraud.</heading>
         <para>
           <num>A.</num>
           <text>Prohibited act. It is unlawful for any person:</text>
@@ -2953,11 +2971,14 @@
           <num>C.</num>
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-22</num>
-        <heading>Use of children in illegal drug distribution or manufacturing. [Amended 11-19-2020 by Ord. No. 20-35]</heading>
+        <heading>Use of children in illegal drug distribution or manufacturing.</heading>
         <para>
           <num>A.</num>
           <text>Prohibited act. It is unlawful for any person who has attained the age of 17 years to knowingly solicit, hire, direct, employ or use a person who is under the age of 17 years for the purpose of violating <cite path="§306-16|A">§ 306-16A</cite>.</text>
@@ -2994,11 +3015,14 @@
           <num>F.</num>
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-23</num>
-        <heading>Possession of drug paraphernalia. [Amended 11-19-2020 by Ord. No. 20-35]</heading>
+        <heading>Possession of drug paraphernalia.</heading>
         <para>
           <num>A.</num>
           <text>Prohibited act. No person may use, or possess with the primary intent to use, drug paraphernalia to plant, propagate, cultivate, grow, harvest, manufacture, compound, convert, produce, process, prepare, test, analyze, pack, repack, store, contain, conceal, inject, ingest, inhale or otherwise introduce into the human body a controlled substance or controlled substance analog in violation of <cite path="|II|306|1">this Part</cite> 1.</text>
@@ -3011,11 +3035,14 @@
           <num>C.</num>
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-24</num>
-        <heading>Manufacture or delivery of drug paraphernalia. [Amended 11-19-2020 by Ord. No. 20-35]</heading>
+        <heading>Manufacture or delivery of drug paraphernalia.</heading>
         <para>
           <num>A.</num>
           <text>Prohibited act. No person may deliver, possess with intent to deliver, or manufacture with intent to deliver drug paraphernalia, knowing that it will be primarily used to plant, propagate, cultivate, grow, harvest, manufacture, compound, convert, produce, process, prepare, test, analyze, pack, repack, store, contain, conceal, inject, ingest, inhale or otherwise introduce into the human body a controlled substance or controlled substance analog in violation of <cite path="|II|306|1">this Part</cite> 1.</text>
@@ -3036,15 +3063,18 @@
           <num>C.</num>
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-25</num>
-        <heading>Abuse of hazardous substances. [Amended 11-19-2020 by Ord. No. 20-35]</heading>
+        <heading>Abuse of hazardous substances.</heading>
         <para>
           <num>A.</num>
           <text>In this section:</text>
-          <text>ABUSE — To ingest, inhale, or otherwise introduce into the human body a hazardous substance in a manner that does not comply with any cautionary labeling that is required for the hazardous substance under § 100.37, Wis. Stats., under federal law, under tribal law, or in a manner that is not intended by the manufacturer of the hazardous substance, and that is intended to induce intoxication or elation, to stupefy the central nervous system, or to change the human audio, visual, or mental processes.</text>
+          <text>ABUSE — To ingest, inhale, or otherwise introduce into the human body a hazardous substance in a manner that does not comply with any cautionary labeling that is required for the hazardous substance under <cite doc="Wis. Stat." path="§100.37">§ 100.37, Wis. Stats.</cite>, under federal law, under tribal law, or in a manner that is not intended by the manufacturer of the hazardous substance, and that is intended to induce intoxication or elation, to stupefy the central nervous system, or to change the human audio, visual, or mental processes.</text>
           <text>CORROSIVE — Any substance which, in contact with living tissue, will cause destruction of tissue by chemical action, but does not refer to action on inanimate surfaces.</text>
           <text>DISTRIBUTE — To transfer a hazardous substance from one person to another.</text>
           <text>HAZARDOUS SUBSTANCE — Includes any substance or mixture of substances, including a toy or other article intended for use by children, which is toxic, is corrosive, is an irritant, is a strong sensitizer, is flammable or combustible, or generates pressure through decomposition, heat or other means, if such substance or mixture of substances may cause substantial personal injury or substantial illness during or as a proximate result of any customary or reasonably foreseeable handling or use, including reasonably foreseeable ingestion by children. "Hazardous substance" also includes any substance or mixture of substances that has the capacity to produce personal injury or illness to a person who abuses the substance and includes any household product, or any mixture of household products.</text>
@@ -3078,17 +3108,23 @@
           <num>E.</num>
           <text>This offense may be subject to federal prosecution in addition to Tribal prosecution.</text>
         </para>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-26</num>
-        <heading>Attempt or conspiracy. [Amended 11-19-2020 by Ord. No. 20-35]</heading>
+        <heading>Attempt or conspiracy.</heading>
         <text>Prohibited act. Any person who attempts or conspires to commit any offense defined in <cite path="|II|306|1|III">this article</cite> shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.</text>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-27</num>
-        <heading>Third or subsequent offenses. [Amended 11-19-2020 by Ord. No. 20-35]</heading>
+        <heading>Third or subsequent offenses.</heading>
         <para>
           <num>A.</num>
           <text>If a person is charged with a third or subsequent offense within the last 10 years under <cite path="|II|306|1|III">this article</cite> or equivalent state or federal law and the person is convicted of that third or subsequent offense, the maximum term of imprisonment for the offense shall be increased one level, not to exceed 12 months in jail and/or a fine of $5,000 unless the offense is charged subject to enhanced sentencing.</text>
@@ -3101,11 +3137,14 @@
           <num>C.</num>
           <text>The third or subsequent offense shall be calculated within the 10 years by counting the prior offense(s) date(s) from date of conviction or release from incarceration or whichever is less, except that years banished shall not be counted.</text>
         </para>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-28</num>
-        <heading>Offenses involving intent to deliver or distribute controlled substances on or near certain places. [Amended 11-19-2020 by Ord. No. 20-35]</heading>
+        <heading>Offenses involving intent to deliver or distribute controlled substances on or near certain places.</heading>
         <para>
           <num>A.</num>
           <text>If any person violates any part of <cite path="|II|306|1|III">this Article</cite> III by possessing with intent to deliver or distribute a controlled substance or analog of any of these substances, and the delivery, distribution or possession takes place under any of the following circumstances, the maximum term of incarceration prescribed by law for that crime may be increased by the following, but not to exceed 12 months in jail and/or a fine of $5,000.</text>
@@ -3162,11 +3201,14 @@
             <text>For a third or subsequent conviction shall be referred to the Tribal Legislature for lifetime banishment pursuant to <cite path="|I|80">Chapter 80</cite>.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>306-29</num>
-        <heading>Classification of misdemeanors. [Amended 11-19-2020 by Ord. No. 20-35]</heading>
+        <heading>Classification of misdemeanors.</heading>
         <para>
           <num>A.</num>
           <text>Misdemeanors in <cite path="|II|306">this chapter</cite> are criminal acts that are classified as follows:</text>
@@ -3299,6 +3341,9 @@
           <num>G.</num>
           <text>Offenses in the article may be subject to federal prosecution in addition to Tribal prosecution. If the Tribal prosecution is dismissed due to federal prosecution, the federal conviction(s) may be used by the Tribal Legislature for banishment pursuant to <cite path="|I|80">Chapter 80</cite>. Nothing in <cite path="|II|306">this chapter</cite> restricts or limits the ability of the Tribal Legislature to assert their inherent, sovereign right of exclusion or banishment under tribal law.</text>
         </para>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-35</annotation>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>

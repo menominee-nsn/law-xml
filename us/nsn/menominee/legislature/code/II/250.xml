@@ -4,7 +4,7 @@
   <num>250</num>
   <heading>ALCOHOLIC BEVERAGES</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
     <annotation type="General References">Criminal Code — See <cite path="|II|290">Ch. 290</cite>.</annotation>
     <annotation type="General References">Drugs and drug paraphernalia — See <cite path="|II|306">Ch. 306</cite>.</annotation>
   </annotations>
@@ -27,11 +27,11 @@
       <heading>Underage and intoxicated persons.</heading>
       <para>
         <num>A.</num>
-        <text>Repeal of prior amendments. The amendments to Ordinance No. 79-31 adopted on September 29, 1988, and June 12, 1993, are repealed, and § 125.07, Wis. Stats., which is incorporated pursuant to <cite path="|II|250|I">this article</cite> as part of <cite>Ch. 125</cite>, Wis. Stats., is reinstated in its entirety except for the changes noted in this section.</text>
+        <text>Repeal of prior amendments. The amendments to Ordinance No. 79-31 adopted on September 29, 1988, and June 12, 1993, are repealed, and <cite doc="Wis. Stat." path="§125.07">§ 125.07, Wis. Stats.</cite>, which is incorporated pursuant to <cite path="|II|250|I">this article</cite> as part of Ch. 125, Wis. Stats., is reinstated in its entirety except for the changes noted in this section.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>Amendments to § 125.07, Wis. Stats.</text>
+        <text>Amendments to <cite doc="Wis. Stat." path="§125.07">§ 125.07, Wis. Stats.</cite></text>
         <para>
           <num>(1)</num>
           <text>Section 125.07(1)(a)1 is amended to delete the phrase "not accompanied by his or her parent, guardian or spouse who has attained the legal drinking age."</text>

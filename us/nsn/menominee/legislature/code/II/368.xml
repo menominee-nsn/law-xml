@@ -4,7 +4,7 @@
   <num>368</num>
   <heading>HEALTH AND FAMILY</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
   </annotations>
   <container cache:ref-path="II|368|I">
     <prefix>Article</prefix>
@@ -30,7 +30,7 @@
       <prefix>§</prefix>
       <num>368-8</num>
       <heading>Adoption and modification of statute.</heading>
-      <text>The Menominee Tribal Legislature adopts as Menominee law § 49.12, Wis. Stats.,<fn path="|II|§368-8|footnotes|2">2</fn> modified as follows:</text>
+      <text>The Menominee Tribal Legislature adopts as Menominee law <cite doc="Wis. Stat." path="§49.12">§ 49.12, Wis. Stats.</cite>,<fn path="|II|§368-8|footnotes|2">2</fn> modified as follows:</text>
       <para>
         <num>A.</num>
         <text>Any person who, with intent to secure public assistance under the Relief to Needy Indian Persons (RNIP) Program, whether for himself or for some other person, wilfully makes any false representations may, if the value of such assistance so secured does not exceed $500, be required to repay to the program the amount so secured.</text>
@@ -841,12 +841,15 @@
     <section cache:ref-path="II|§368-21">
       <prefix>§</prefix>
       <num>368-21</num>
-      <heading>Adoption of statute. [Amended 10-3-2002<fn proof="needed" path="|II|§368-21|footnotes|5">5</fn>]</heading>
-      <text>Pursuant to the Bylaws of the Menominee Constitution, Article II, Section 2, <cite path="§368-21|(i)">Subsection (i)</cite>, § 118.15, Wis. Stats., Compulsory school attendance, and any amendments or references to other provisions of the Wisconsin Statutes which may be adopted into law from time to time, attached hereto and incorporated herein, is enacted into Menominee law. Where the term "school attendance officer" appears in § 118.15, Wis. Stats., it shall be construed to include any police school liaison officer or any other duly authorized law enforcement person.</text>
+      <heading>Adoption of statute.</heading>
+      <text>Pursuant to the Bylaws of the Menominee Constitution, Article II, Section 2, <cite path="§368-21|(i)">Subsection (i)</cite>, <cite doc="Wis. Stat." path="§118.15">§ 118.15, Wis. Stats.</cite>, Compulsory school attendance, and any amendments or references to other provisions of the Wisconsin Statutes which may be adopted into law from time to time, attached hereto and incorporated herein, is enacted into Menominee law. Where the term "school attendance officer" appears in <cite doc="Wis. Stat." path="§118.15">§ 118.15, Wis. Stats.</cite>, it shall be construed to include any police school liaison officer or any other duly authorized law enforcement person.</text>
+      <annotations>
+        <annotation type="History">Amended 10-3-2002<fn proof="needed" path="|II|§368-21|footnotes|5">5</fn></annotation>
+      </annotations>
       <footnotes>
         <footnote>
           <num>5</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
     </section>
@@ -864,7 +867,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Other than the specific remedies outlined by the provisions of § 118.15, Wis. Stats., the Court may include but is not limited to considering:</text>
+        <text>Other than the specific remedies outlined by the provisions of <cite doc="Wis. Stat." path="§118.15">§ 118.15, Wis. Stats.</cite>, the Court may include but is not limited to considering:</text>
         <para>
           <num>(1)</num>
           <text>The suspension of any driving privileges;</text>
@@ -895,11 +898,11 @@
       <prefix>§</prefix>
       <num>368-23</num>
       <heading>Copy on file.<fn proof="needed" path="|II|§368-23|footnotes|6">6</fn></heading>
-      <text>Copies of the attached incorporated § 118.15, Wis. Stats., as adopted into Menominee law are available for inspection at the office of the Tribal Chairperson, Tribal Courts, or the Administrative Offices of the Menominee Indian School District.</text>
+      <text>Copies of the attached incorporated <cite doc="Wis. Stat." path="§118.15">§ 118.15, Wis. Stats.</cite>, as adopted into Menominee law are available for inspection at the office of the Tribal Chairperson, Tribal Courts, or the Administrative Offices of the Menominee Indian School District.</text>
       <footnotes>
         <footnote>
           <num>6</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
     </section>
@@ -1201,26 +1204,26 @@
       <heading>Definitions.</heading>
       <text>In <cite path="|II|368|IX">this article</cite>, the following words and phrases have the designated meanings, unless the context of a specific section manifestly requires a different construction:</text>
       <text>CHILD — A person who has not attained the age of 18 years.</text>
-      <text>CHILD CARING INSTITUTION — A facility operated and licensed by the Tribe or child welfare agency under § 48.60, Wis. Stats., for the care and maintenance of children residing in that facility.</text>
-      <text>FOSTER HOME — Any facility operated by a person required to be licensed by the Tribe or by § 48.62(1)(a), Wis. Stats., and that provides care and maintenance for no more than four children unless all of the children are siblings.</text>
-      <text>GROUP HOME — Any facility operated by a person required to be licensed by the Tribe or the Wisconsin Department of Children and Families under § 48.625, Wis. Stats., for the care and maintenance of five to eight children.<fn path="|II|§368-42|footnotes|7">7</fn></text>
+      <text>CHILD CARING INSTITUTION — A facility operated and licensed by the Tribe or child welfare agency under <cite doc="Wis. Stat." path="§48.60">§ 48.60, Wis. Stats.</cite>, for the care and maintenance of children residing in that facility.</text>
+      <text>FOSTER HOME — Any facility operated by a person required to be licensed by the Tribe or by <cite doc="Wis. Stat." path="§48.62|(1)|(a)">§ 48.62(1)(a), Wis. Stats.</cite>, and that provides care and maintenance for no more than four children unless all of the children are siblings.</text>
+      <text>GROUP HOME — Any facility operated by a person required to be licensed by the Tribe or the Wisconsin Department of Children and Families under <cite doc="Wis. Stat." path="§48.625">§ 48.625, Wis. Stats.</cite>, for the care and maintenance of five to eight children.<fn path="|II|§368-42|footnotes|7">7</fn></text>
       <text>NEGLECT — Includes but not limited to negligent treatment, care or supervision of a child, by a person responsible for the child's welfare, under circumstances which indicate that the child's health or welfare is harmed or threatened for reasons other than poverty.</text>
       <text>PERSON RESPONSIBLE FOR A CHILD'S WELFARE — Includes but is not limited to the child's parent; guardian; foster parent; an employee of a public or private group home, institution or agency entrusted with the care of a child; or a person employed by one legally responsible for the child's welfare to exercise temporary control or care for the child or other person entrusted with the care of the child.</text>
-      <text>PUBLIC OR PRIVATE INSTITUTION OR AGENCY — Refers to social service entities responsible for the licensing and supervision of group homes, child caring institutions, and day-care facilities licensed by the Tribe or under § 48.65, Wis. Stats., providing care and supervision of children for less than 24 hours a day.</text>
-      <text>SHELTER CARE FACILITY — A nonsecure place of temporary care and physical custody for children, including a holdover room, licensed by the Tribe or the Wisconsin Department of Children and Families under § 48.66(1), Wis. Stats.<fn path="|II|§368-42|footnotes|8">8</fn></text>
-      <text>TREATMENT FOSTER HOME — Any facility that is operated by a person required to be licensed by the Tribe or § 48.62(1)(b), Wis. Stats., that is operated under the supervision of the Wisconsin Department of Children and Families, a county department, a licensed child welfare agency or the Menominee Department of Social Services and that provides to no more than four children care, maintenance and structured, professional treatment by trained individuals, including the treatment foster parents.<fn path="|II|§368-42|footnotes|9">9</fn></text>
+      <text>PUBLIC OR PRIVATE INSTITUTION OR AGENCY — Refers to social service entities responsible for the licensing and supervision of group homes, child caring institutions, and day-care facilities licensed by the Tribe or under <cite doc="Wis. Stat." path="§48.65">§ 48.65, Wis. Stats.</cite>, providing care and supervision of children for less than 24 hours a day.</text>
+      <text>SHELTER CARE FACILITY — A nonsecure place of temporary care and physical custody for children, including a holdover room, licensed by the Tribe or the Wisconsin Department of Children and Families under <cite doc="Wis. Stat." path="§48.66|(1)">§ 48.66(1), Wis. Stats.</cite><fn path="|II|§368-42|footnotes|8">8</fn></text>
+      <text>TREATMENT FOSTER HOME — Any facility that is operated by a person required to be licensed by the Tribe or <cite doc="Wis. Stat." path="§48.62|(1)|(b)">§ 48.62(1)(b), Wis. Stats.</cite>, that is operated under the supervision of the Wisconsin Department of Children and Families, a county department, a licensed child welfare agency or the Menominee Department of Social Services and that provides to no more than four children care, maintenance and structured, professional treatment by trained individuals, including the treatment foster parents.<fn path="|II|§368-42|footnotes|9">9</fn></text>
       <footnotes>
         <footnote>
           <num>7</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
         <footnote>
           <num>8</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
         <footnote>
           <num>9</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
     </section>
@@ -1262,7 +1265,7 @@
       <text>GREAT BODILY HARM — Bodily injury which creates a substantial risk of death or which causes serious permanent disfigurement or which causes a permanent or protracted loss or impairment of the function of any bodily member or organ or other serious bodily injury.</text>
       <text>PARENT — Either a biological parent, person adjudicated to be the biological parent or a parent by adoption.</text>
       <text>PERSON RESPONSIBLE FOR A CHILD'S WELFARE — Includes but is not limited to the child's parent; guardian; foster parent; an employee of a public or private group home, institution or agency entrusted with the care of a child; or a person employed by one legally responsible for the child's welfare to exercise temporary control or care for the child or other person entrusted with the care of the child.</text>
-      <text>PUBLIC OR PRIVATE INSTITUTION OR AGENCY — Refers to social service entities responsible for the licensing and supervision of group homes, child caring institutions, and day-care facilities licensed by the Tribe or under § 48.65, Wis. Stats., providing care and supervision of children for less than 24 hours a day.</text>
+      <text>PUBLIC OR PRIVATE INSTITUTION OR AGENCY — Refers to social service entities responsible for the licensing and supervision of group homes, child caring institutions, and day-care facilities licensed by the Tribe or under <cite doc="Wis. Stat." path="§48.65">§ 48.65, Wis. Stats.</cite>, providing care and supervision of children for less than 24 hours a day.</text>
       <text>RECKLESSLY — Conduct which creates a situation of unreasonable risk of harm and demonstrates conscious disregard for safety of a child.</text>
     </section>
     <section>
@@ -1384,7 +1387,7 @@
       <heading>Definitions.</heading>
       <text>As used in <cite path="|II|368|XI">this article</cite>, the following terms shall have the meanings indicated:</text>
       <text>PERSON RESPONSIBLE FOR A CHILD'S WELFARE — Includes but is not limited to the child's parent; guardian; foster parent; an employee of a public or private group home, institution or agency entrusted with the care of a child; or a person employed by one legally responsible for the child's welfare to exercise temporary control or care for the child or other person entrusted with the care of the child.</text>
-      <text>PUBLIC OR PRIVATE INSTITUTION OR AGENCY — Refers to social service entities responsible for the licensing and supervision of group homes, child caring institutions, and day-care facilities licensed by the Tribe or under § 48.65, Wis. Stats., providing care and supervision of children for less than 24 hours a day.</text>
+      <text>PUBLIC OR PRIVATE INSTITUTION OR AGENCY — Refers to social service entities responsible for the licensing and supervision of group homes, child caring institutions, and day-care facilities licensed by the Tribe or under <cite doc="Wis. Stat." path="§48.65">§ 48.65, Wis. Stats.</cite>, providing care and supervision of children for less than 24 hours a day.</text>
       <text>SEXUAL CONTACT — Any of the following:</text>
       <para>
         <num>A.</num>

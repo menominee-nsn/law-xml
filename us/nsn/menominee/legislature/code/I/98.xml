@@ -4,7 +4,7 @@
   <num>98</num>
   <heading>GOVERNMENT PLAN</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-18-1995 by Ord. No. 95-04; amended in its entirety 9-17-2020 by Ord. No. 20-22. Subsequent amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 5-18-1995 by Ord. No. 95-04; amended in its entirety 9-17-2020 by Ord. No. 20-22. Subsequent amendments noted where applicable</annotation>
   </annotations>
   <container>
     <prefix>Article</prefix>
@@ -63,7 +63,7 @@
     <section>
       <prefix>§</prefix>
       <num>98-7</num>
-      <heading>Main committees. [Amended 7-6-2023 by Ord. No. 23-21]</heading>
+      <heading>Main committees.</heading>
       <para>
         <num>A.</num>
         <text>Creation of committees; defining responsibility and membership. The Legislature hereby establishes the following main committees of the Legislature:</text>
@@ -256,6 +256,9 @@
         <num>F.</num>
         <text>Limitation on committee membership. An employee whose position requires him/her to serve on a committee and the person is not enrolled in the Menominee Tribe may not serve on a main committee. In the event that an employee identified as a member of the committee is not enrolled with the Menominee Tribe, the Chairperson may nominate an alternate employee who is enrolled in the Tribe, or may leave the seat vacant.</text>
       </para>
+      <annotations>
+        <annotation type="History">Amended 7-6-2023 by Ord. No. 23-21</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>

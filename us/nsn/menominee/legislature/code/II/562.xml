@@ -4,7 +4,7 @@
   <num>562</num>
   <heading>WATER</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
     <annotation type="General References">Department of Tribal Utilities — See <cite path="|I|210">Ch. 210</cite>. Conservation Code — See <cite path="|II|287">Ch. 287</cite>.</annotation>
     <annotation type="General References">Sewers and sewage disposal — See <cite path="|II|495">Ch. 495</cite>.</annotation>
     <annotation type="General References">Surface water — See <cite path="|II|512">Ch. 512</cite>.</annotation>
@@ -24,7 +24,7 @@
       <prefix>§</prefix>
       <num>562-2</num>
       <heading>Applicability.</heading>
-      <text><cite path="|II|562|I">This article</cite> applies to all facilities, practices and activities which may affect groundwater quality. Health-related enforcement standards adopted in <cite path="§562-6|A">§ 562-6A</cite> also apply to bottled drinking water manufactured, bottled, sold or distributed on the Reservation and to determining eligibility for the well compensation program under § 281.75, Wis. Stats. The Tribe may promulgate new rules or amend rules governing facilities, practices or activities if the Tribe determines that the amendment or promulgation of rules is necessary to protect public health, safety or welfare. The requirements of <cite path="|II|562|I">this article</cite> are in addition to the requirements of any other chapters and rules.</text>
+      <text><cite path="|II|562|I">This article</cite> applies to all facilities, practices and activities which may affect groundwater quality. Health-related enforcement standards adopted in <cite path="§562-6|A">§ 562-6A</cite> also apply to bottled drinking water manufactured, bottled, sold or distributed on the Reservation and to determining eligibility for the well compensation program under <cite doc="Wis. Stat." path="§281.75">§ 281.75, Wis. Stats.</cite> The Tribe may promulgate new rules or amend rules governing facilities, practices or activities if the Tribe determines that the amendment or promulgation of rules is necessary to protect public health, safety or welfare. The requirements of <cite path="|II|562|I">this article</cite> are in addition to the requirements of any other chapters and rules.</text>
     </section>
     <section>
       <prefix>§</prefix>
@@ -47,7 +47,7 @@
       <text>ACCURACY — The closeness of a measured value to its generally accepted value or its value based upon an accepted reference standard.</text>
       <text>ATTAIN or EXCEED — The concentration of a substance is determined to be equal to or greater than the preventive action limit or enforcement standard for that substance.</text>
       <text>BACKGROUND WATER QUALITY or BACKGROUND CONCENTRATION — Groundwater quality at or near a facility, practice or activity which has not been affected by that facility, practice or activity.</text>
-      <text>CERTIFIED LABORATORY — A laboratory which performs tests for hire and which receives certification under § 299.11(7), Wis. Stats., or receives reciprocal recognition under § 299.11(5), Wis. Stats.</text>
+      <text>CERTIFIED LABORATORY — A laboratory which performs tests for hire and which receives certification under <cite doc="Wis. Stat." path="§299.11|(7)">§ 299.11(7), Wis. Stats.</cite>, or receives reciprocal recognition under <cite doc="Wis. Stat." path="§299.11|(5)">§ 299.11(5), Wis. Stats.</cite></text>
       <text>DESIGN MANAGEMENT ZONE — A three-dimensional boundary surrounding each regulated facility, practice or activity established under <cite path="§562-7">§ 562-7</cite>B(5).</text>
       <text>ENFORCEMENT STANDARD — A numerical value expressing the concentration of a substance in groundwater which is adopted under <cite path="§562-6|A">§ 562-6A</cite> or B.</text>
       <text>FACILITY, PRACTICE or ACTIVITY — Any source or potential source of a substance which is detected in or has a reasonable probability of entering the groundwater resources of the Reservation.</text>
@@ -60,7 +60,7 @@
       <text>PRECISION — The closeness of repeated measurements of the same parameter within a sample.</text>
       <text>PREVENTIVE ACTION LIMIT — A numerical value expressing the concentration of a substance in groundwater which is adopted under <cite path="§562-6|A">§ 562-6A</cite> or B or 562-7A.</text>
       <text>PROPERTY BOUNDARY — The boundary of the total contiguous parcel of land owned by a common owner, regardless of whether public or private roads run through the parcel.</text>
-      <text>REGISTERED LABORATORY — A laboratory which is registered under § 299.11(8), Wis. Stats., or receives reciprocal recognition under § 299.11(5), Wis. Stats.</text>
+      <text>REGISTERED LABORATORY — A laboratory which is registered under <cite doc="Wis. Stat." path="§299.11|(8)">§ 299.11(8), Wis. Stats.</cite>, or receives reciprocal recognition under <cite doc="Wis. Stat." path="§299.11|(5)">§ 299.11(5), Wis. Stats.</cite></text>
       <text>SUBSTANCE — Any solid, liquid, semisolid, dissolved solid or gaseous material, naturally occurring or man-made chemical, parameter for measurement of water quality or biological organism which, in its original form, or as a metabolite or a degradation or waste product, may decrease the quality of groundwater.</text>
     </section>
     <section>
@@ -69,7 +69,7 @@
       <heading>Groundwater quality standards.</heading>
       <para>
         <num>A.</num>
-        <text>Public-health-related groundwater standards. The groundwater quality standards for substances of public health concern are listed in Table 1. Note: For all substances that have carcinogenic, mutagenic or teratogenic properties or interactive effects, the preventive action limit is 10% of the enforcement standard. The preventive action limit is 20% of the enforcement standard for all other substances that are of public health concern. Enforcement standards and preventive action limits for additional substances will be added to Table 1 as recommendations are developed pursuant to §§ 160.07, 160.13 and 160.15, Wis. Stats. <strong>[Amended 4-4-2013 by Ord. No. 13-07]</strong></text>
+        <text>Public-health-related groundwater standards. The groundwater quality standards for substances of public health concern are listed in Table 1. Note: For all substances that have carcinogenic, mutagenic or teratogenic properties or interactive effects, the preventive action limit is 10% of the enforcement standard. The preventive action limit is 20% of the enforcement standard for all other substances that are of public health concern. Enforcement standards and preventive action limits for additional substances will be added to Table 1 as recommendations are developed pursuant to §§ 160.07, 160.13 and <cite doc="Wis. Stat." path="§160.15">160.15, Wis. Stats.</cite> <strong>[Amended 4-4-2013 by Ord. No. 13-07]</strong></text>
         <text class="center">Table 1</text>
         <text class="center">
           <strong>Public Health Groundwater Quality Standards</strong>
@@ -1023,7 +1023,7 @@
         <text>Monitoring and laboratory data requirements.</text>
         <para>
           <num>(1)</num>
-          <text>All water quality samples collected to determine compliance with <cite path="|II|562|I">this article</cite>, except field analyses for pH, specific conductance, and temperature, shall be analyzed by a laboratory certified or registered under § 299.11, Wis. Stats., and rules adopted under that section. The results of the analysis shall be submitted to the Tribe. <cite path="§562-6|D.|(1)">This subsection</cite> does not require the submission of groundwater monitoring data which is collected voluntarily and which is not being collected to determine compliance with <cite path="|II|562|I">this article</cite>. The samples shall be collected in accordance with procedures specified by the Tribe or, where no procedures are specified, in accordance with published sampling procedures. Note: Published sampling procedures include those contained in the following sources. Other published sampling procedures are also acceptable.</text>
+          <text>All water quality samples collected to determine compliance with <cite path="|II|562|I">this article</cite>, except field analyses for pH, specific conductance, and temperature, shall be analyzed by a laboratory certified or registered under <cite doc="Wis. Stat." path="§299.11">§ 299.11, Wis. Stats.</cite>, and rules adopted under that section. The results of the analysis shall be submitted to the Tribe. <cite path="§562-6|D.|(1)">This subsection</cite> does not require the submission of groundwater monitoring data which is collected voluntarily and which is not being collected to determine compliance with this article. The samples shall be collected in accordance with procedures specified by the Tribe or, where no procedures are specified, in accordance with published sampling procedures. Note: Published sampling procedures include those contained in the following sources. Other published sampling procedures are also acceptable.</text>
           <para>
             <num>(a)</num>
             <text>Procedures Manual for Ground Water Monitoring at Solid Waste Disposal Sites, EPA SW-611, Office of Water and Waste Management, United States Environmental Protection Agency, December 1980, Washington, D.C.</text>
@@ -1736,7 +1736,7 @@
       <footnotes>
         <footnote>
           <num>1</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
     </section>
@@ -1790,7 +1790,7 @@
       <footnotes>
         <footnote>
           <num>2</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
     </section>
@@ -1814,7 +1814,7 @@
       <footnotes>
         <footnote>
           <num>3</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
     </section>
@@ -1845,7 +1845,7 @@
       <footnotes>
         <footnote>
           <num>4</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
     </section>
@@ -1858,8 +1858,11 @@
     <section>
       <prefix>§</prefix>
       <num>562-18</num>
-      <heading>Maintenance of services. [Amended 1-5-2012 by Ord. No. 11-32]</heading>
+      <heading>Maintenance of services.</heading>
       <text>The Department of Tribal Utilities shall maintain the water service from the street main to the property line and including all controls between the same, without expense to the property owner, except when it is damaged as a result of negligence or carelessness on the part of the property owner, a tenant, or an agent of the owner, in which case it will be repaired at the expense of the property owner. All water service from the point of maintenance by the system to and throughout the premises must be maintained free of defective conditions by and at the expense of the owner or occupant of the property. When any water service is to be relaid and there are two or more buildings on such service, each building shall be disconnected from such service and a new water service shall be installed for each building.</text>
+      <annotations>
+        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1870,8 +1873,11 @@
     <section>
       <prefix>§</prefix>
       <num>562-20</num>
-      <heading>Damage recovery. [Amended 1-5-2012 by Ord. No. 11-32]</heading>
+      <heading>Damage recovery.</heading>
       <text>In addition to any other penalty provided by <cite path="|II|562|II">this article</cite> or other law, the Department of Tribal Utilities shall have the right of recovery from any responsible persons of any expense incurred by the Tribe for penalties imposed on the Tribe due to a violation of <cite path="|II|562|II">this article</cite> or other law, correction of conditions impairing the proper operation to the water system and the repair or replacement of any water pipe or other property of the water system damaged in any manner by any negligent or intended act or omission by such person or by others under his control.</text>
+      <annotations>
+        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>

@@ -17,7 +17,7 @@
     <num>I</num>
     <heading>HEARTH Act Leasing<fn proof="needed" path="|I|138|I|footnotes|2">2</fn></heading>
     <annotations>
-      <annotation type="History">Adopted in its entirety by the Legislature of the Menominee Indian Tribe December 1, 2016, by Ord. No. 16-27; adopted and amended in its entirety by Ord. No. 18-38; approved by the Secretary of the Interior on 7-25-2019, published approval in Federal Register Vol. 84, No. 201, October 17, 2019.</annotation>
+      <annotation type="History">Adopted in its entirety by the Legislature of the Menominee Indian Tribe December 1, 2016, by Ord. No. 16-27; adopted and amended in its entirety by Ord. No. 18-38; approved by the Secretary of the Interior on 7-25-2019, published approval in Federal Register Vol. 84, No. 201, October 17, 2019</annotation>
     </annotations>
     <footnotes>
       <footnote>
@@ -139,14 +139,16 @@
         <num>B.</num>
         <text>Published in the local newspaper(s) nearest to the leased land.</text>
         <text>DEPARTMENT — The Land Management Department; or any future reorganized and named Tribal department that has taken on the duties involving leasing of tribal lands and real estate services.</text>
-        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
         <text>DEVELOPED LOTS — Developed lots are lots recorded by the Land Management Department in a list of available lots. Generally, although not exclusively, these lots have a certified survey, completed archaeological review, completed environment reviews, and are already approved and zoned for specific uses. Lots not on the Department's list may be placed on the list through the procedures listed in <cite path="|II|340">Chapter 340</cite>, Forest Management and Development; <cite path="|III|600">Chapter 600</cite>, Land Use and Natural Resource Plan; <cite path="|III|625">Chapter 625</cite>, Zoning; Community Development Committee Policies and Procedure, and Land Management Department's Policies and Procedure.</text>
-        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
         <text>EXECUTING OFFICIAL — The Chairperson of the Menominee Indian Tribe of Wisconsin or his/ her designee, if properly designated, who shall have the authority to execute residential, agricultural, commercial site leases on tribal lands controlled by the Menominee Indian Tribe of Wisconsin, and take all necessary and proper action on leases, including amendments, modifications, assignments, and cancellations of leases.</text>
         <text>FAIR ANNUAL LEASE VALUE — The amount of rental income that a leased tract of tribal land would most probably command in an open market or competitive market, or as determined by competitive bidding.</text>
         <text>FAIR MARKET RENTAL — The amount of rental income that a leased tract of the Tribe's land would most probably command in an open and competitive market, or as determined by competitive bidding.</text>
         <text>FAMILY UNIT — Two people legally married and recognized by tribal law, two individuals living together (meaning cohabitation as evidenced by a sworn statement on the application form), or a single adult person residing in the same household as the above, or with any biological children or legally adopted children, including tribal customary adoption, under the age of 18 years old.</text>
         <text>JUNK — Any of the following that pose a threat to public health, safety or property rights:</text>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+        </annotations>
       </para>
       <para>
         <num>A.</num>
@@ -197,7 +199,9 @@
         <text>PERMANENT IMPROVEMENT — Buildings, other structures, and associated infrastructure attached to the Tribe's land.</text>
         <text>PUBLIC FOR PURPOSES OF ENVIRONMENTAL REVIEW — Records of activities taken pursuant to <cite path="|I|138|I">this article</cite> are property of the Menominee Tribe and are not public documents except for the documents required to be publicly posted in compliance with the environmental review process in <cite path="|I|138|I">this article</cite>.</text>
         <text>PUBLIC NUISANCE — A thing, act, occupation, condition, or use of a property which continues for such length of time as to substantially annoy, injure, or endanger the comfort, health, repose, or safety of the public, or in any way render the public insecure in life or in the use of property or greatly offend the public morals or decency or unlawfully and substantially interfere with, obstruct, or tend to obstruct or render dangerous for passage any street, alley, highway, navigable waters or other public way, or the use of public property. The following is a non-exclusive list of actions that may constitute a public nuisance or, when a threat is posed to public health, safety or property rights:</text>
-        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+        <annotations>
+          <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+        </annotations>
       </para>
       <para>
         <num>A.</num>
@@ -1218,7 +1222,7 @@
     <section>
       <prefix>§</prefix>
       <num>138-30</num>
-      <heading>Failure to cure. [Amended 11-19-2020 by Ord. No. 20-37]</heading>
+      <heading>Failure to cure.</heading>
       <text>If the leaseholder fails to cure the lease violation within the specified period, the Land Management Department shall either:</text>
       <para>
         <num>A.</num>
@@ -1240,6 +1244,9 @@
         <num>C.</num>
         <text>Pursue any other remedies that may be available.</text>
       </para>
+      <annotations>
+        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1289,7 +1296,7 @@
     <section>
       <prefix>§</prefix>
       <num>138-32</num>
-      <heading>Notice of cancellation. [Amended 11-19-2020 by Ord. No. 20-37]</heading>
+      <heading>Notice of cancellation.</heading>
       <text>When the Legislature grants a cancellation of a lease through final approval of the ordinance cancelling the lease, the Land Management Department shall notify the leaseholder of the cancellation. The notification shall be sent, in writing, to the leaseholder's last known address. The letter shall contain the following:</text>
       <para>
         <num>A.</num>
@@ -1307,6 +1314,9 @@
         <num>D.</num>
         <text>Notify the leaseholder that all property of the leaseholder must be removed (including mobile and manufactured homes, junk, waste, garbage or refuse), and that the property must be left in good condition free of junk and public nuisances, or the leaseholder will be charged for cleanup and disposal of any property, junk or public nuisances left behind.</text>
       </para>
+      <annotations>
+        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1332,7 +1342,7 @@
     <section>
       <prefix>§</prefix>
       <num>138-34</num>
-      <heading>Notice of lease approval. [Amended 11-19-2020 by Ord. No. 20-37]</heading>
+      <heading>Notice of lease approval.</heading>
       <text>After a lease receives final approval from the Menominee Tribal Legislature, the leaseholder will be mailed a notification letter, to his/her last known address, of approval of lease and will have 30 calendar days to sign the lease and beneficiary documents and pay any necessary fees. When the lease is signed, an Accounts Receivable Customer Setup Form will need to be completed by Land Management Staff. If the individual makes no contact, the lease will automatically be presented for cancellation.</text>
       <para>
         <num>A.</num>
@@ -1342,6 +1352,9 @@
         <num>B.</num>
         <text>The acceptable forms of payment are cash, check or money order.</text>
       </para>
+      <annotations>
+        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1543,8 +1556,11 @@
     <section>
       <prefix>§</prefix>
       <num>138-41</num>
-      <heading>Tract index and map. [Amended 11-19-2020 by Ord. No. 20-37]</heading>
+      <heading>Tract index and map.</heading>
       <text>The Land Management Department shall maintain a filing system and map, which provides for a chronological history of leased tribal land within the boundaries of the Menominee Indian Reservation. Pertinent leases, cancellations, and other necessary documents shall be placed into this filing system.</text>
+      <annotations>
+        <annotation type="History">Amended 11-19-2020 by Ord. No. 20-37</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>

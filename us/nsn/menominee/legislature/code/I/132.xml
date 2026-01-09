@@ -4,7 +4,7 @@
   <num>132</num>
   <heading>LAW ENFORCEMENT</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
     <annotation type="General References">Judiciary and Law and Order Code — See <cite path="|I|120">Ch. 120</cite>, Part 1. Juvenile Justice Code — See <cite path="|I|124">Ch. 124</cite>.</annotation>
     <annotation type="General References">Conservation Code — See <cite path="|II|287">Ch. 287</cite>. Criminal Code — See <cite path="|II|290">Ch. 290</cite>.</annotation>
   </annotations>
@@ -30,7 +30,7 @@
     <section>
       <prefix>§</prefix>
       <num>132-3</num>
-      <heading>Authority of police officers. [Amended 1-18-2018 by Ord. No. 17-32]</heading>
+      <heading>Authority of police officers.</heading>
       <para>
         <num>A.</num>
         <text>The Menominee Tribal Legislature hereby clothes the tribal police officers with tribal authority to enforce all tribal laws, in accordance with any applicable provision within the Constitution and Bylaws of the Menominee Nation.</text>
@@ -179,6 +179,9 @@
           <text>This section repeals the provisional adoption of 25 CFR Part 11, 1979 edition, Section 11.15, Arrests.</text>
         </para>
       </para>
+      <annotations>
+        <annotation type="History">Amended 1-18-2018 by Ord. No. 17-32</annotation>
+      </annotations>
     </section>
   </container>
   <container cache:ref-path="I|132|II">
@@ -727,8 +730,11 @@
     <section>
       <prefix>§</prefix>
       <num>132-21</num>
-      <heading>State and county law enforcement officials on tribal lands. [Amended 10-16-1989]</heading>
+      <heading>State and county law enforcement officials on tribal lands.</heading>
       <text>No law enforcement official of Menominee County or Shawano County, Wisconsin, or any other state or governmental official shall enter any tribal business premises on Menominee tribal lands within the exterior boundaries of the Menominee Indian Nation for the purposes of enforcing the law of the State of Wisconsin unless such official's presence has been requested by an appropriate tribal official. State or local law enforcement officials discovered within the premises of a tribal business on Menominee tribal lands acting in an official capacity without tribal consent shall be escorted to the boundaries of the Menominee Reservation and expelled from the Reservation forthwith by the Menominee tribal police.</text>
+      <annotations>
+        <annotation type="History">Amended 10-16-1989</annotation>
+      </annotations>
     </section>
   </container>
   <container cache:ref-path="I|132|V">

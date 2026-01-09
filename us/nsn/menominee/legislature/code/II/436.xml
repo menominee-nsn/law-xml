@@ -4,7 +4,7 @@
   <num>436</num>
   <heading>OCCUPATIONAL SAFETY AND HEALTH</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-2010 by Ord. No. 09-21. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-2010 by Ord. No. 09-21. Amendments noted where applicable</annotation>
     <annotation type="General References">Charters — See <cite>Part IV</cite>.</annotation>
   </annotations>
   <section cache:ref-path="II|§436-1">
@@ -32,7 +32,6 @@
     <heading>Definitions.</heading>
     <text>For the purposes of <cite path="|II|436">this chapter</cite>:</text>
     <text>ADVISORY BOARD — A board which shall consist of the Insurance Director, Environmental Services Director, Community Development Director, Housing Director, designee from the Menominee Casino and designee from the College of the Menominee Nation. In the event that one of the above-listed positions is filled by a nontribal member, that director shall designate a tribal member employee of that department to serve on the Board.</text>
-    <annotation type="History">Amended 12-15-2011</annotation>
     <text>AUTHORIZED REPRESENTATIVE — An employee, agent, or officer of the Department. DEPARTMENT — The Menominee Indian Tribe of Wisconsin Environmental Services Department.</text>
     <text>DIRECTOR — The Director of the Menominee Indian Tribe of Wisconsin Environmental Services Department, or a designated representative of that Director.</text>
     <text>EMPLOYEE — An employee of an employer.</text>
@@ -42,6 +41,9 @@
     <text>TRIBAL COURT — The Menominee Tribal Court.</text>
     <text>WORKING DAY — For the purpose of computing time, a calendar day, except Saturdays, Sundays, and all tribal governmental legal holidays, as now or hereafter amended, and for the purposes of the computation of time within which an act is to be done under the provisions of <cite path="|II|436">this chapter</cite>, shall be computed by excluding the first working day and including the last working day.</text>
     <text>WORK PLACE — Any plant, yard, premises, room, or other place where an employee or employees are employed for the performance of labor or service over which the employer has the right of access or control.</text>
+    <annotations>
+      <annotation type="History">Amended 12-15-2011</annotation>
+    </annotations>
   </section>
   <section cache:ref-path="II|§436-3">
     <prefix>§</prefix>

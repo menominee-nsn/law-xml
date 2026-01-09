@@ -4,7 +4,7 @@
   <num>196</num>
   <heading>STATE OF EMERGENCY, DECLARATION OF</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-2010 by Ord. No. 09-32; amended in its entirety 11-6-2014 by Ord. No. 14-25. Subsequent amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 3-4-2010 by Ord. No. 09-32; amended in its entirety 11-6-2014 by Ord. No. 14-25. Subsequent amendments noted where applicable</annotation>
     <annotation type="General References">Posting procedures — See <cite path="|I|177">Ch. 177</cite>.</annotation>
   </annotations>
   <section>
@@ -22,7 +22,7 @@
   <section>
     <prefix>§</prefix>
     <num>196-3</num>
-    <heading>Procedure to declare state of emergency. [Amended 4-23-2020 by Ord. No. 20-07]</heading>
+    <heading>Procedure to declare state of emergency.</heading>
     <para>
       <num>A.</num>
       <text>The Chairperson of the Legislature, or in the Chair's absence, in succession, the Chief of Police, the Vice Chair, the Emergency Management Coordinator or a majority of the Tribal Legislature, may declare a state of emergency and as such shall issue all necessary proclamations relating to the existence of a state of emergency and shall issue such disaster warnings or alerts as shall be required in the tribal emergency response plan.</text>
@@ -63,6 +63,9 @@
       <num>G.</num>
       <text>A declaration of a state of emergency shall only be terminated by the Legislature when it deems that a state of emergency ceases to exist.</text>
     </para>
+    <annotations>
+      <annotation type="History">Amended 4-23-2020 by Ord. No. 20-07</annotation>
+    </annotations>
   </section>
   <section>
     <prefix>§</prefix>

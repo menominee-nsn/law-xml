@@ -4,7 +4,7 @@
   <num>550</num>
   <heading>VEHICLES AND TRAFFIC</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
     <annotation type="General References">Salvage yards — See <cite path="|II|504">Ch. 504, § 504-23</cite>.</annotation>
     <annotation type="General References">Junked vehicles and mobile homes — See <cite path="|II|546">Ch. 546</cite>.</annotation>
   </annotations>
@@ -80,8 +80,11 @@
     <section>
       <prefix>§</prefix>
       <num>550-3</num>
-      <heading>Intent. [Amended 1-5-2012 by Ord. No. 11-32]</heading>
+      <heading>Intent.</heading>
       <text>In order to protect and preserve the public safety, property, health and welfare of the Menominee Nation and assist the Menominee Tribal Department of Environmental Services and the County of Menominee Highway Department, it is the intent of the Tribal Legislature to provide for a proper and timely manner of snow removal upon the streets and highways within the exterior boundaries of the Menominee Nation.</text>
+      <annotations>
+        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -102,8 +105,10 @@
       <heading>Definitions.</heading>
       <text>As used in <cite path="|II|550|II">this article</cite>, the following terms shall have the meanings indicated:</text>
       <text>MOTOR VEHICLE — Any automobile, truck, trailer, semitrailer, tractor, motor bus or any self-propelled or motor-driven vehicle, except a motorcycle, moped, or motor bicycle.</text>
-      <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
       <text>PUBLIC HIGHWAY — Every public street, alley, road, highway or thoroughfare of any kind open to public travel and use.</text>
+      <annotations>
+        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -161,8 +166,11 @@
     <section>
       <prefix>§</prefix>
       <num>550-12</num>
-      <heading>Enforcement. [Amended 12-19-2019 by Ord. No. 19-25]</heading>
+      <heading>Enforcement.</heading>
       <text><cite path="|II|550|III">This article</cite> shall be enforced by the Menominee Tribal Police Department and any duly authorized tribal conservation officers.</text>
+      <annotations>
+        <annotation type="History">Amended 12-19-2019 by Ord. No. 19-25</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -193,7 +201,7 @@
     <section cache:ref-path="II|§550-16">
       <prefix>§</prefix>
       <num>550-16</num>
-      <heading>Definitions. [Amended 2-15-2024 by Ord. No. 23-79]</heading>
+      <heading>Definitions.</heading>
       <text>As used in <cite path="|II|550|IV">this article</cite>, the following terms shall have the meanings indicated: ACCOMPANIED — Being subject to continuous verbal direction or control.</text>
       <text>ALL-TERRAIN VEHICLE — An engine-driven device which has a net weight of 900 pounds or less, which has a width of 48 inches or less, which is equipped with a seat designed to be straddled by the operator and which is designed to travel on two or more low-pressure tires. A low-pressure tire is a tire which has a minimum width of six inches, which is designed to be mounted on a rim with a maximum diameter of 12 inches and which is designed to be inflated with an operating pressure not to exceed six pounds per square inch as recommended by the manufacturer. The term "all-terrain vehicle" shall also include non-street-legal motorbikes, motorized vehicles, snowmobiles, go-carts, golf carts, six- to eight-wheel amphibious vehicles, and utility-type side-by-side vehicles, regardless of size, weight or dimensions.</text>
       <text>ALL-TERRAIN VEHICLE ROUTE — A route designated for all-terrain vehicle use by the Menominee Tribe.</text>
@@ -215,6 +223,9 @@
       <text>USED EXCLUSIVELY FOR AGRICULTURAL PURPOSES — Use of an all-terrain vehicle only on land owned or leased by the person or member of the person's immediate family over which the owner or lessee has management and control exclusively for agricultural use.</text>
       <text>USED EXCLUSIVELY ON PRIVATE PROPERTY — Use of an all-terrain vehicle by the owner of the all-terrain vehicle or a member of his or her immediate family only on land owned or leased by the all-terrain vehicle owner or a member of his or her immediate family.</text>
       <text>WETLAND — Areas that are inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated (hydric) soil conditions. Wetlands generally include, but are not limited to, swamps, marshes, bogs, and similar areas.</text>
+      <annotations>
+        <annotation type="History">Amended 2-15-2024 by Ord. No. 23-79</annotation>
+      </annotations>
       <footnotes>
         <footnote>
           <num>1</num>
@@ -268,7 +279,7 @@
     <section cache:ref-path="II|§550-18">
       <prefix>§</prefix>
       <num>550-18</num>
-      <heading>Rules of operation. [Amended 2-15-2024 by Ord. No. 23-79]</heading>
+      <heading>Rules of operation.</heading>
       <text>For the protection of the Menominee Indian Tribe of Wisconsin and tribal land, operation of an all-terrain vehicle in the following manner shall be prohibited:</text>
       <para>
         <num>A.</num>
@@ -334,6 +345,9 @@
         <num>P.</num>
         <text>An all-terrain vehicle shall not exceed 10 miles per hour under the posted speed limit, and exceptions shall be made for navigating from one trail to another over paved roads.</text>
       </para>
+      <annotations>
+        <annotation type="History">Amended 2-15-2024 by Ord. No. 23-79</annotation>
+      </annotations>
       <footnotes>
         <footnote>
           <num>3</num>
@@ -344,7 +358,7 @@
     <section>
       <prefix>§</prefix>
       <num>550-19</num>
-      <heading>Operation on or near highway. [Amended 2-15-2024 by Ord. No. 23-79]</heading>
+      <heading>Operation on or near highway.</heading>
       <text>All-terrain vehicles may not be operated on any highways or other paved roadways within the exterior boundaries of the Menominee Indian Reservation except by a tribal member, descendant, or spouse of a tribal member. Tribal members, descendants, or spouses of tribal members may not operate on State Highway 47 and 55.</text>
       <para>
         <num>A.</num>
@@ -386,6 +400,9 @@
           <text>Roadway speed limits shall be observed when traveling adjacent to a roadway.</text>
         </para>
       </para>
+      <annotations>
+        <annotation type="History">Amended 2-15-2024 by Ord. No. 23-79</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -442,7 +459,7 @@
     <section>
       <prefix>§</prefix>
       <num>550-21.1</num>
-      <heading>Violations and penalties. [Amended 2-15-2024 by Ord. No. 23-79]</heading>
+      <heading>Violations and penalties.</heading>
       <text>Violation of a provision of <cite path="|II|550|IV">this article</cite> shall result in forfeiture as follows:</text>
       <para>
         <num>A.</num>
@@ -544,6 +561,9 @@
         <num>Y.</num>
         <text>In addition to the above penalties, restitution may be ordered for damage caused from a violation of <cite path="|II|550|IV">this article</cite>.</text>
       </para>
+      <annotations>
+        <annotation type="History">Amended 2-15-2024 by Ord. No. 23-79</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -651,8 +671,11 @@
     <section>
       <prefix>§</prefix>
       <num>550-25</num>
-      <heading>Enforcement. [Amended 12-19-2019 by Ord. No. 19-25]</heading>
+      <heading>Enforcement.</heading>
       <text>Tribal police and any duly authorized tribal conservation officers are hereby ordered and directed to stop any vehicle in which drivers/passengers are not using seat belts. Failure to fasten seat belts shall result in a citation for the driver and any passengers for violation of <cite path="|II|550|V">this article</cite>.</text>
+      <annotations>
+        <annotation type="History">Amended 12-19-2019 by Ord. No. 19-25</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -862,8 +885,11 @@
     <section>
       <prefix>§</prefix>
       <num>550-33</num>
-      <heading>Towing of vehicles authorized. [Amended 12-19-2019 by Ord. No. 19-25]</heading>
+      <heading>Towing of vehicles authorized.</heading>
       <text>Menominee tribal police officers and any duly authorized tribal conservation officers are hereby authorized to cause the towing away of vehicles parked in violation of <cite path="|II|550|VI">this article</cite>. The owner of said vehicle shall be liable for all costs of towing and storage associated with removal under <cite path="|II|550|VI">this article</cite>. This liability begins once the tow truck has been dispatched, whether or not the vehicle is actually towed.</text>
+      <annotations>
+        <annotation type="History">Amended 12-19-2019 by Ord. No. 19-25</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -1409,7 +1435,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>Any applicable test or inspection requirements of the State of Wisconsin under § 110.20(6), Wis. Stats., have not been met.</text>
+            <text>Any applicable test or inspection requirements of the State of Wisconsin under <cite doc="Wis. Stat." path="§110.20|(6)">§ 110.20(6), Wis. Stats.</cite>, have not been met.</text>
           </para>
         </para>
         <para>

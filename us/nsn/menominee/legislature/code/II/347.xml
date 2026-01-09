@@ -4,9 +4,9 @@
   <num>347</num>
   <heading>GAMING</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable.</annotation>
-    <annotation type="General References">Menominee Indian Gaming Authority — See <cite path="|I|90">Ch. 90</cite>, Art. I and <cite path="|IV|660">Ch. 660</cite>, Art. II.</annotation>
-    <annotation type="General References">Menominee Kenosha Gaming Authority — See <cite path="|I|90">Ch. 90</cite>, Art. II and <cite path="|IV|660">Ch. 660</cite>, Art. I.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
+    <annotation type="General References">Menominee Indian Gaming Authority — See <cite path="|I|90|I">Ch. 90, Art. I</cite> and <cite path="|IV|660|II">Ch. 660, Art. II</cite>.</annotation>
+    <annotation type="General References">Menominee Kenosha Gaming Authority — See <cite path="|I|90|II">Ch. 90, Art. II</cite> and <cite path="|IV|660|I">Ch. 660, Art. I</cite>.</annotation>
   </annotations>
   <container cache:ref-path="II|347|I">
     <prefix>Article</prefix>
@@ -170,7 +170,9 @@
           <text>GAMING EMPLOYEE — Any employee of the gaming operation whose duties include gaming activity and any person who meets the definition of "key employee" or "primary management official" pursuant to <cite path="|II|347">Chapter 347</cite> or the Indian Gaming Regulatory Act or regulations promulgated pursuant to the Indian Gaming Regulatory Act.<strong>[Added 5-2-2013 by Ord. No. 13-08]</strong></text>
           <text>GAMING OPERATION — Each economic entity that is licensed by the Tribe, operates games, receives revenues, issues prizes, and pays expenses. A gaming operation may be operated by the Tribe directly or by a management contractor or by an enterprise established and owned by the Tribe for the conduct of gaming or its enterprise's management contractor.</text>
           <text>IMMEDIATE FAMILY MEMBER — Biological or legally adopted father, mother, sister, brother, child, grandchild, grandparent; legal father-in-law, mother-in-law, sister-in-law, brother-in-law, son-in-law, daughter-in-law; legal stepfather, stepmother, stepbrother, stepsister, and stepchildren; legally married spouse.</text>
-          <annotation type="History">Amended 7-21-2016 by Ord. No. 16-17</annotation>
+          <annotations>
+            <annotation type="History">Amended 7-21-2016 by Ord. No. 16-17</annotation>
+          </annotations>
         </para>
         <aftertext>INDIAN LAND — Any lands title to which is either held in trust by the United States for the benefit of the Menominee Indian Tribe of Wisconsin or held by the Menominee Indian Tribe of Wisconsin subject to restriction by the United States against alienation and over which the Menominee Indian Tribe of Wisconsin exercises governmental power.</aftertext>
         <aftertext>KEY EMPLOYEE — Has the same meaning as used in Article V, Authorization of Gaming, of this chapter.</aftertext>
@@ -693,7 +695,7 @@
     <section>
       <prefix>§</prefix>
       <num>347-20</num>
-      <heading>Licensing of games and personnel. [Amended 1-5-2012 by Ord. No. 11-32; 5-2-2013 by Ord. No. 13-08]</heading>
+      <heading>Licensing of games and personnel.</heading>
       <para>
         <num>A.</num>
         <text>Mandatory license. Any person seeking to conduct, operate or manage any gaming activity on Indian lands, or any person seeking employment therefrom, shall apply for and receive all the required licenses and/or approvals from the Commission prior to engaging in such gaming activities in accordance with this section and <cite path="§347-36">§ 347-36</cite> of this Code.</text>
@@ -795,6 +797,9 @@
         <num>H.</num>
         <text>Licensing of distributors. The Commission may authorize, require and issue such annual licenses as the Commission by regulation may provide to any person or entity to engage in the selling, distributing, or otherwise supplying of gambling equipment or paraphernalia for use in connection with licensed gaming activity.</text>
       </para>
+      <annotations>
+        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32; 5-2-2013 by Ord. No. 13-08</annotation>
+      </annotations>
     </section>
     <section cache:ref-path="II|§347-21">
       <prefix>§</prefix>
@@ -1165,7 +1170,7 @@
     <section>
       <prefix>§</prefix>
       <num>347-36</num>
-      <heading>Licenses for key employees and primary management officials. [Amended 1-5-2012 by Ord. No. 11-32; 5-2-2013 by Ord. No. 13-08; 1-18-2024 by Ord. No. 23-71]</heading>
+      <heading>Licenses for key employees and primary management officials.</heading>
       <text>The Tribe shall ensure that the policies and procedures set out in this section are implemented with respect to key employees and primary management officials employed at any Class II and Class III gaming enterprise operated on Indian lands.</text>
       <para>
         <num>A.</num>
@@ -1494,6 +1499,9 @@
           <text>After a revocation hearing, a tribe shall decide to revoke or to reinstate a gaming license. A tribe shall notify the National Indian Gaming Commission of its decision within 45 days of receiving notification from the National Indian Gaming Commission pursuant to <cite path="§347-36|G|(1)">Subsection G(1)</cite> of <cite path="§347-36|B.|(3)">this subsection</cite>.</text>
         </para>
       </para>
+      <annotations>
+        <annotation type="History">Amended 1-5-2012 by Ord. No. 11-32; 5-2-2013 by Ord. No. 13-08; 1-18-2024 by Ord. No. 23-71</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>

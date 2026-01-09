@@ -4,8 +4,8 @@
   <num>321</num>
   <heading>FIREARMS</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 7-8-1993 by Ord. No. 93-11; amended in its entirety 3-3-2016 by Ord. No. 15-39. Subsequent amendments noted where applicable.</annotation>
-    <annotation type="General References">Taking of wild game or fish — See <cite path="|II|255">Ch. 255</cite>, Art. II. Conservation Code — See <cite path="|II|287">Ch. 287</cite>.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 7-8-1993 by Ord. No. 93-11; amended in its entirety 3-3-2016 by Ord. No. 15-39. Subsequent amendments noted where applicable</annotation>
+    <annotation type="General References">Taking of wild game or fish — See <cite path="|II|255|II">Ch. 255, Art. II</cite>. Conservation Code — See <cite path="|II|287">Ch. 287</cite>.</annotation>
     <annotation type="General References">Criminal Code — See <cite path="|II|290">Ch. 290</cite>.</annotation>
   </annotations>
   <section>
@@ -578,7 +578,9 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>Section 55.12(1)(a), Wis. Stats.</text>
+          <text>
+            <cite doc="Wis. Stat." path="§55.12|(1)|(a)">Section 55.12(1)(a), Wis. Stats.</cite>
+          </text>
         </para>
       </para>
       <para>

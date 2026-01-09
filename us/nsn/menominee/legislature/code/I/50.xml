@@ -4,7 +4,7 @@
   <num>50</num>
   <heading>DISPUTE RESOLUTION</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
     <annotation type="General References">Tribal Housing Limited Partnership No. 5 — See <cite path="|IV|730">Ch. 730</cite>.</annotation>
     <annotation type="General References">Tribal Housing Limited Partnership No. 6 — See <cite path="|IV|731">Ch. 731</cite>.</annotation>
   </annotations>
@@ -93,8 +93,11 @@
     <section>
       <prefix>§</prefix>
       <num>50-6</num>
-      <heading>Authorization to provide collateral. [Amended 7-21-2011]</heading>
+      <heading>Authorization to provide collateral.</heading>
       <text>The Menominee Tribal Legislature authorizes the Chairperson to execute documents pledging certain funds as collateral pursuant to the Outside Reserve Pledge agreements listed in <cite path="§50-7|I">§ 50-7I</cite> and J of <cite path="|I|50|II">this article</cite> so long as those funds are provided from Menominee tribal housing resources and not from general tribal funds.</text>
+      <annotations>
+        <annotation type="History">Amended 7-21-2011</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -149,8 +152,11 @@
     <section>
       <prefix>§</prefix>
       <num>50-8</num>
-      <heading>Enforcement of agreements. [Amended 9-15-2011]</heading>
+      <heading>Enforcement of agreements.</heading>
       <text>The Menominee Indian Tribe shall be subject to suit in Menominee Tribal Court for the purpose of enforcing dispute resolution provisions, including, but not limited to, binding arbitration provisions contained in any document referenced in <cite path="§50-7">§ 50-7</cite> of <cite path="|I|50|II">this article</cite> consistent with the terms of any such document, and the Tribal Court shall enforce the arbitration provisions in a manner consistent with the terms of such agreements requiring arbitration of disputes.</text>
+      <annotations>
+        <annotation type="History">Amended 9-15-2011</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>

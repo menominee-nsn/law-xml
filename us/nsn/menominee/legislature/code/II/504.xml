@@ -4,7 +4,7 @@
   <num>504</num>
   <heading>SOLID WASTE</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
     <annotation type="General References">Fire prevention — See <cite path="|II|325">Ch. 325</cite>. Food handling — See <cite path="|II|335">Ch. 335</cite>.</annotation>
     <annotation type="General References">Hazardous materials — See <cite path="|II|361">Ch. 361</cite>.</annotation>
     <annotation type="General References">Junked vehicles and mobile homes — See <cite path="|II|546">Ch. 546</cite>.</annotation>
@@ -66,7 +66,7 @@
       <footnotes>
         <footnote>
           <num>1</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
     </section>
@@ -235,7 +235,7 @@
       <footnotes>
         <footnote>
           <num>3</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
         <footnote>
           <num>4</num>
@@ -338,7 +338,7 @@
       <footnotes>
         <footnote>
           <num>5</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
     </section>
@@ -1837,7 +1837,7 @@
       <footnotes>
         <footnote>
           <num>8</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
     </section>
@@ -1990,7 +1990,7 @@
       <footnotes>
         <footnote>
           <num>9</num>
-          <text>Editor's Note: See <cite path="|II|361">Ch. 361</cite>, Art. I, Hazardous Waste.</text>
+          <text>Editor's Note: See <cite path="|II|361|I">Ch. 361, Art. I</cite>, Hazardous Waste.</text>
         </footnote>
       </footnotes>
     </section>

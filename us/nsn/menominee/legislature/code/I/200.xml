@@ -4,9 +4,9 @@
   <num>200</num>
   <heading>TAXATION</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
     <annotation type="General References">Tax on cigarettes and tobacco products — See <cite path="|II|281">Ch. 281</cite>. Tax on fireworks sales — See <cite path="|II|329">Ch. 329</cite>.</annotation>
-    <annotation type="General References">Tax on bingo operations — See <cite path="|II|347">Ch. 347</cite>, Art. I.</annotation>
+    <annotation type="General References">Tax on bingo operations — See <cite path="|II|347|I">Ch. 347, Art. I</cite>.</annotation>
   </annotations>
   <container cache:ref-path="I|200|I">
     <prefix>Article</prefix>
@@ -237,13 +237,16 @@
     <section>
       <prefix>§</prefix>
       <num>200-14</num>
-      <heading>Definitions. [Amended 10-19-2023 by Ord. No. 23-48]</heading>
+      <heading>Definitions.</heading>
       <text>As used in <cite path="|I|200|II">this article</cite>, the following terms shall have the meanings indicated: HOTEL — The Menominee Casino Resort Hotel.</text>
+      <annotations>
+        <annotation type="History">Amended 10-19-2023 by Ord. No. 23-48</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
       <num>200-15</num>
-      <heading>Levy of tax. [Amended 10-19-2023 by Ord. No. 23-48]</heading>
+      <heading>Levy of tax.</heading>
       <text>There is hereby levied a 8% hotel room tax on all hotel rooms and suites at the Menominee Casino Resort Hotel.</text>
       <para>
         <num>A.</num>
@@ -257,6 +260,9 @@
         <num>C.</num>
         <text>The amount collected by the hotel from the consumer or user in reimbursement of the tax may be displayed separately from the price advertised, the marked price, or other price on the sales check or proof of sale.</text>
       </para>
+      <annotations>
+        <annotation type="History">Amended 10-19-2023 by Ord. No. 23-48</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>

@@ -4,7 +4,7 @@
   <num>361</num>
   <heading>HAZARDOUS MATERIALS</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe as indicated in article histories. Amendments noted where applicable</annotation>
     <annotation type="General References">Fire prevention — See <cite path="|II|325">Ch. 325</cite>. Fireworks — See <cite path="|II|329">Ch. 329</cite>.</annotation>
     <annotation type="General References">Solid waste — See <cite path="|II|504">Ch. 504</cite>.</annotation>
   </annotations>
@@ -182,7 +182,7 @@
       <footnotes>
         <footnote>
           <num>1</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
     </section>
@@ -239,7 +239,7 @@
     <section>
       <prefix>§</prefix>
       <num>361-7</num>
-      <heading>Supplemental rules and regulations. [Amended 10-17-2013 by Ord. No. 13-39]</heading>
+      <heading>Supplemental rules and regulations.</heading>
       <para>
         <num>A.</num>
         <text>Motor carrier registration. Motor carrier registration shall be completed as follows:</text>
@@ -300,6 +300,9 @@
         <num>H.</num>
         <text>Presentation of documents. A driver of a vehicle transporting a hazardous material on a highway shall present upon request to a qualified tribal employee all documents required by <cite path="|II|361|II">this article</cite> to be in his possession.</text>
       </para>
+      <annotations>
+        <annotation type="History">Amended 10-17-2013 by Ord. No. 13-39</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -585,7 +588,7 @@
       <footnotes>
         <footnote>
           <num>4</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
     </section>
@@ -664,7 +667,7 @@
       <footnotes>
         <footnote>
           <num>6</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. I).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|I">Ch. 1, General Provisions, Art. I</cite>).</text>
         </footnote>
         <footnote>
           <num>7</num>
@@ -734,7 +737,7 @@
       <footnotes>
         <footnote>
           <num>9</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
     </section>

@@ -4,7 +4,7 @@
   <num>12</num>
   <heading>ADMINISTRATIVE PROCEDURES</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-6-1987 by Ord. No. 87-25. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 11-6-1987 by Ord. No. 87-25. Amendments noted where applicable</annotation>
   </annotations>
   <section cache:ref-path="I|§12-1">
     <prefix>§</prefix>
@@ -343,7 +343,7 @@
     <footnotes>
       <footnote>
         <num>2</num>
-        <text>Editor's Note: See <cite path="|II|504">Ch. 504</cite>, Solid Waste, Art. II, Management, <cite path="|II|361">Ch. 361</cite>, Art. II, Hazardous Waste, <cite path="|II|562">Ch. 562</cite>, Art. I, Groundwater Quality, and <cite path="|II|512">Ch. 512</cite>, Surface Water.</text>
+        <text>Editor's Note: See <cite path="|II|504">Ch. 504</cite>, Solid Waste, Art. II, Management, <cite path="|II|361|II">Ch. 361, Art. II</cite>, Hazardous Waste, <cite path="|II|562|I">Ch. 562, Art. I</cite>, Groundwater Quality, and <cite path="|II|512">Ch. 512</cite>, Surface Water.</text>
       </footnote>
     </footnotes>
   </section>

@@ -4,7 +4,7 @@
   <num>594</num>
   <heading>KENOSHA TRUST LANDS</heading>
   <annotations>
-    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-2-2004 by Ord. No. 04-44. Amendments noted where applicable.</annotation>
+    <annotation type="History">Adopted by the Legislature of the Menominee Indian Tribe 12-2-2004 by Ord. No. 04-44. Amendments noted where applicable</annotation>
   </annotations>
   <container cache:ref-path="III|594|I">
     <prefix>Article</prefix>
@@ -19,8 +19,11 @@
     <section>
       <prefix>§</prefix>
       <num>594-2</num>
-      <heading>Applicability. [Amended 11-16-2023 by Ord. No. 23-58]</heading>
+      <heading>Applicability.</heading>
       <text><cite path="|III|594">This Chapter 594</cite> shall apply to any lands owned by the United States in trust for the Menominee Indian Tribe of Wisconsin located in the City or County of Kenosha, hereinafter "Menominee Kenosha trust lands" or "trust lands."</text>
+      <annotations>
+        <annotation type="History">Amended 11-16-2023 by Ord. No. 23-58</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -289,7 +292,7 @@
     <section cache:ref-path="III|§594-6">
       <prefix>§</prefix>
       <num>594-6</num>
-      <heading>Specific development regulations. [Amended 11-16-2023 by Ord. No. 23-58]</heading>
+      <heading>Specific development regulations.</heading>
       <para>
         <num>A.</num>
         <text>(Reserved)</text>
@@ -790,6 +793,9 @@
         <num>B.</num>
         <text>Definitions. See Exhibit 12.<fn path="|III|§594-6|footnotes|11">11</fn></text>
       </para>
+      <annotations>
+        <annotation type="History">Amended 11-16-2023 by Ord. No. 23-58</annotation>
+      </annotations>
       <footnotes>
         <footnote>
           <num>2</num>
@@ -853,7 +859,7 @@
     <section cache:ref-path="III|§594-8">
       <prefix>§</prefix>
       <num>594-8</num>
-      <heading>Exhibits and references. [Amended 11-16-2023 by Ord. No. 23-58]</heading>
+      <heading>Exhibits and references.</heading>
       <para>
         <num>A.</num>
         <text>All exhibits and references are attached hereto and incorporated herein.<fn path="|III|§594-8|footnotes|12">12</fn></text>
@@ -906,6 +912,9 @@
           <text>Definitions.</text>
         </para>
       </para>
+      <annotations>
+        <annotation type="History">Amended 11-16-2023 by Ord. No. 23-58</annotation>
+      </annotations>
       <footnotes>
         <footnote>
           <num>12</num>
@@ -1531,7 +1540,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>If any unvaccinated animal is scratched or bitten by a known rabid animal, said bitten or scratched animal may be immediately destroyed, with the owner's consent, or as a last resort, if the animal cannot be captured. If the owner is unwilling to destroy the bitten or scratched animal, strict isolation of the animal in a kennel under veterinary supervision for a minimum of 180 days and compliance with the vaccination requirement of § 95.21(5)(c), Wis. Stats., shall be required.</text>
+          <text>If any unvaccinated animal is scratched or bitten by a known rabid animal, said bitten or scratched animal may be immediately destroyed, with the owner's consent, or as a last resort, if the animal cannot be captured. If the owner is unwilling to destroy the bitten or scratched animal, strict isolation of the animal in a kennel under veterinary supervision for a minimum of 180 days and compliance with the vaccination requirement of <cite doc="Wis. Stat." path="§95.21|(5)|(c)">§ 95.21(5)(c), Wis. Stats.</cite>, shall be required.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -1553,7 +1562,7 @@
       <footnotes>
         <footnote>
           <num>13</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
     </section>
@@ -2002,7 +2011,7 @@
       <footnotes>
         <footnote>
           <num>14</num>
-          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1">Ch. 1</cite>, General Provisions, Art. II).</text>
+          <text>Editor's Note: Amended at time of adoption of Code (see <cite path="|I|1|II">Ch. 1, General Provisions, Art. II</cite>).</text>
         </footnote>
       </footnotes>
     </section>
@@ -2095,8 +2104,11 @@
     <section>
       <prefix>§</prefix>
       <num>594-33</num>
-      <heading>Restrictions on cutting of trees and shrubbery. [Amended 2-3-2005]</heading>
+      <heading>Restrictions on cutting of trees and shrubbery.</heading>
       <text>The cutting of trees and shrubbery shall be regulated to protect natural beauty, control erosion and reduce the flow of effluents, sediments and nutrients from the shorelands. In the strip of land 35 feet wide inland from the ordinary high-water mark, no more than 30 feet in any 100 feet (30%) shall be clear-cut. In shoreland areas more than 35 feet inland, tree and shrubbery cutting shall be governed by the consideration of the effect on water quality and consideration of sound forestry practices and soil conservation practices. The tree and shrubbery cutting regulations required by this section shall not apply to the removal of dead, diseased or dying trees or shrubbery. Paths and trails shall not exceed 10 feet in width and shall be so designed and constructed as to result in the least removal and disruption of shoreland cover and the minimum impairment of natural beauty.</text>
+      <annotations>
+        <annotation type="History">Amended 2-3-2005</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
@@ -2119,8 +2131,11 @@
     <section>
       <prefix>§</prefix>
       <num>594-37</num>
-      <heading>Violations and penalties. [Amended 2-3-2005]</heading>
+      <heading>Violations and penalties.</heading>
       <text>Any person who fails to comply with the provisions of <cite path="|III|594|IV">this article</cite> or any order of the Department issued in accordance with <cite path="|III|594|IV">this article</cite> shall, upon conviction thereof, forfeit not less than $100 or more than $1,000 for each day the violation continues and pay the cost of prosecution for each violation, including court costs and reasonable attorney fees.</text>
+      <annotations>
+        <annotation type="History">Amended 2-3-2005</annotation>
+      </annotations>
     </section>
     <section>
       <prefix>§</prefix>
