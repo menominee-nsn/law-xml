@@ -567,21 +567,19 @@
         <num>A.</num>
         <text>Lakes of the Menominee Reservation.</text>
         <text>
-          <table class="layout-table">
+          <table>
             <tbody>
               <tr>
                 <th>Lake Names</th>
-                <td proof="needed"/>
-                <th>Location</th>
-                <td proof="needed"/>
-                <th class="text-indent-1">Base Map Key</th>
+                <th colspan="3">Location</th>
+                <th>Base Map Key</th>
               </tr>
               <tr>
-                <td proof="needed"/>
+                <td/>
                 <th>T-N</th>
                 <th>R-E</th>
                 <th>Sec.</th>
-                <td proof="needed"/>
+                <td/>
               </tr>
               <tr>
                 <td>Askennette Springs (T)</td>
@@ -688,12 +686,6 @@
                 <td>8</td>
                 <td>B-20</td>
               </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>
-          <table class="layout-table">
-            <tbody>
               <tr>
                 <td>Deadman Springs Lake (T)</td>
                 <td>30</td>
@@ -834,12 +826,6 @@
                 <td>24</td>
                 <td>D-12</td>
               </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>
-          <table class="layout-table">
-            <tbody>
               <tr>
                 <td>Marsh Lake (Waupoose)</td>
                 <td>29</td>
@@ -987,102 +973,96 @@
                 <td>15</td>
                 <td>O-22</td>
               </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>
-          <table class="layout-table">
-            <tbody>
               <tr>
                 <td>Skice Lake (L.L.)</td>
-                <td class="text-indent-1">28</td>
+                <td>28</td>
                 <td>16</td>
                 <td>19</td>
                 <td>P-19</td>
               </tr>
               <tr>
                 <td>Spring Lake (L.L.)</td>
-                <td class="text-indent-1">28</td>
+                <td>28</td>
                 <td>16</td>
                 <td>17</td>
                 <td>O-20</td>
               </tr>
               <tr>
                 <td>Stone Lake</td>
-                <td class="text-indent-1">28</td>
+                <td>28</td>
                 <td>16</td>
                 <td>4</td>
                 <td>M-21</td>
               </tr>
               <tr>
                 <td>Stoney Lake (Cool)</td>
-                <td class="text-indent-1">28</td>
+                <td>28</td>
                 <td>16</td>
                 <td>7</td>
                 <td>N-19</td>
               </tr>
               <tr>
                 <td>Sunia Lake</td>
-                <td class="text-indent-1">30</td>
+                <td>30</td>
                 <td>16</td>
                 <td>19</td>
                 <td>D-19</td>
               </tr>
               <tr>
                 <td>Teabeau Lake</td>
-                <td class="text-indent-1">30</td>
+                <td>30</td>
                 <td>14</td>
                 <td>28</td>
                 <td>E-9</td>
               </tr>
               <tr>
                 <td>Turtle Lake</td>
-                <td class="text-indent-1">30</td>
+                <td>30</td>
                 <td>16</td>
                 <td>3</td>
                 <td>A-22</td>
               </tr>
               <tr>
                 <td>Vejo Lake</td>
-                <td class="text-indent-1">30</td>
+                <td>30</td>
                 <td>16</td>
                 <td>35</td>
                 <td>F-23</td>
               </tr>
               <tr>
                 <td>Wah-Toh-Sah Lake (L.L.)</td>
-                <td class="text-indent-1">28</td>
+                <td>28</td>
                 <td>16</td>
                 <td>19</td>
                 <td>P-19</td>
               </tr>
               <tr>
                 <td>Walleye Pond (Gravel Pit)</td>
-                <td class="text-indent-1">28</td>
+                <td>28</td>
                 <td>15</td>
                 <td>15</td>
                 <td>O-16</td>
               </tr>
               <tr>
                 <td>Waukau Lake</td>
-                <td class="text-indent-1">29</td>
+                <td>29</td>
                 <td>16</td>
                 <td>31</td>
                 <td>L-19</td>
               </tr>
               <tr>
                 <td>Weso Lake</td>
-                <td class="text-indent-1">30</td>
+                <td>30</td>
                 <td>16</td>
                 <td>1</td>
                 <td>A-24</td>
               </tr>
               <tr>
                 <td>Additional unnamed lakes</td>
-                <td proof="needed"/>
-                <td proof="needed"/>
-                <td proof="needed"/>
-                <td proof="needed"/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
               </tr>
             </tbody>
           </table>
@@ -1098,21 +1078,21 @@
         <num>B.</num>
         <text>Rivers, streams, and creeks of the Menominee Reservation.</text>
         <text>
-          <table class="layout-table">
+          <table>
             <tbody>
               <tr>
                 <th>Lake Names</th>
-                <td proof="needed"/>
-                <th>Location</th>
-                <td proof="needed"/>
+                <td/>
+                <th colspan="3">Location</th>
+                <td/>
                 <th>Base Map Key</th>
               </tr>
               <tr>
-                <td proof="needed"/>
+                <td/>
                 <th>T-N</th>
                 <th>R-E</th>
                 <th>Sec.</th>
-                <td proof="needed"/>
+                <td/>
               </tr>
               <tr>
                 <td>Big Eddy Creek</td>
@@ -1247,12 +1227,6 @@
                 <td>18</td>
                 <td>I-19</td>
               </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>
-          <table class="layout-table">
-            <tbody>
               <tr>
                 <td>Florence Creek</td>
                 <td>30</td>
@@ -1386,155 +1360,149 @@
                 <td>27</td>
                 <td>Q-16</td>
               </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>
-          <table class="layout-table">
-            <tbody>
               <tr>
                 <td>Peavy Creek</td>
-                <td class="text-indent-1">29</td>
+                <td>29</td>
                 <td>14</td>
                 <td>26</td>
                 <td>K-11</td>
               </tr>
               <tr>
                 <td>Pecore Creek</td>
-                <td class="text-indent-1">29</td>
+                <td>29</td>
                 <td>16</td>
                 <td>12</td>
                 <td>H-24</td>
               </tr>
               <tr>
                 <td>Pendelton Creek</td>
-                <td class="text-indent-1">28</td>
+                <td>28</td>
                 <td>14</td>
                 <td>6</td>
-                <td proof="needed"/>
+                <td/>
               </tr>
               <tr>
                 <td>Pine Creek</td>
-                <td class="text-indent-1">28</td>
+                <td>28</td>
                 <td>16</td>
                 <td>35</td>
                 <td>R-23</td>
               </tr>
               <tr>
                 <td>Rapids Creek</td>
-                <td class="text-indent-1">30</td>
+                <td>30</td>
                 <td>15</td>
                 <td>34</td>
                 <td>F-16</td>
               </tr>
               <tr>
                 <td>Red River</td>
-                <td class="text-indent-1">29</td>
+                <td>29</td>
                 <td>13</td>
                 <td>33</td>
                 <td>L-3</td>
               </tr>
               <tr>
                 <td>Rice Creek</td>
-                <td class="text-indent-1">28</td>
+                <td>28</td>
                 <td>16</td>
                 <td>34</td>
                 <td>R-22</td>
               </tr>
               <tr>
                 <td>Second North Branch Mill Creek</td>
-                <td class="text-indent-1">29</td>
+                <td>29</td>
                 <td>14</td>
                 <td>32</td>
                 <td>L-8</td>
               </tr>
               <tr>
                 <td>Soman Creek</td>
-                <td class="text-indent-1">29</td>
+                <td>29</td>
                 <td>15</td>
                 <td>24</td>
                 <td>J-18</td>
               </tr>
               <tr>
                 <td>South Branch Oconto River</td>
-                <td class="text-indent-1">30</td>
+                <td>30</td>
                 <td>16</td>
                 <td>13</td>
                 <td>C-24</td>
               </tr>
               <tr>
                 <td>Squaw Creek</td>
-                <td class="text-indent-1">29</td>
+                <td>29</td>
                 <td>14</td>
                 <td>2</td>
                 <td>G-11</td>
               </tr>
               <tr>
                 <td>Tall Timber Creek</td>
-                <td class="text-indent-1">30</td>
+                <td>30</td>
                 <td>15</td>
                 <td>7</td>
                 <td>B-13</td>
               </tr>
               <tr>
                 <td>Third North Branch Mill Creek</td>
-                <td class="text-indent-1">29</td>
+                <td>29</td>
                 <td>13</td>
                 <td>36</td>
                 <td>L-6</td>
               </tr>
               <tr>
                 <td>Tourtillott Creek</td>
-                <td class="text-indent-1">29</td>
+                <td>29</td>
                 <td>14</td>
                 <td>20</td>
                 <td>J-8</td>
               </tr>
               <tr>
                 <td>Tousey Creek</td>
-                <td class="text-indent-1">29</td>
+                <td>29</td>
                 <td>13</td>
                 <td>33</td>
                 <td>L-3</td>
               </tr>
               <tr>
                 <td>Wayka Creek</td>
-                <td class="text-indent-1">28</td>
+                <td>28</td>
                 <td>15</td>
                 <td>2</td>
                 <td>M-17</td>
               </tr>
               <tr>
                 <td>Weso Creek</td>
-                <td class="text-indent-1">30</td>
+                <td>30</td>
                 <td>16</td>
                 <td>1</td>
                 <td>A-24</td>
               </tr>
               <tr>
                 <td>West Branch Chickney Creek</td>
-                <td class="text-indent-1">28</td>
+                <td>28</td>
                 <td>15</td>
                 <td>16</td>
                 <td>O-15</td>
               </tr>
               <tr>
                 <td>West Branch Red River</td>
-                <td class="text-indent-1">29</td>
+                <td>29</td>
                 <td>13</td>
                 <td>31</td>
                 <td>L-1</td>
               </tr>
               <tr>
                 <td>West Branch Wolf River</td>
-                <td class="text-indent-1">28</td>
+                <td>28</td>
                 <td>15</td>
                 <td>2</td>
                 <td>M-17</td>
               </tr>
               <tr>
                 <td>Wolf River</td>
-                <td class="text-indent-1">28</td>
+                <td>28</td>
                 <td>15</td>
                 <td>35</td>
                 <td>R-17</td>
@@ -1959,7 +1927,7 @@
     <section cache:ref-path="II|§512-19">
       <prefix>§</prefix>
       <num>512-19</num>
-      <heading>Analytical methods.<fn proof="needed" path="|II|§512-19|footnotes|6">6</fn></heading>
+      <heading>Analytical methods.<fn path="|II|§512-19|footnotes|6">6</fn></heading>
       <text>The analytical testing methods used to measure or otherwise required to evaluate discharge proposals and compliance with water quality criteria and standards shall, to the extent practicable, be in accordance with the Guidelines Establishing Test Procedures for the Analysis of Pollutants (40 CFR Part 136, as amended) and/or the most recent edition of Standard Methods for the Examination of Water and Wastewater (published by the American Public Health Association, American Water Works Association, and the Water Environment Federation) and/or other generally acceptable scientific procedures employed with the concurrence of the Department.</text>
       <para>
         <num>A.</num>

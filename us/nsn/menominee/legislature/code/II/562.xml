@@ -75,10 +75,10 @@
           <strong>Public Health Groundwater Quality Standards</strong>
         </text>
         <text>
-          <table class="layout-table">
+          <table>
             <thead>
               <tr>
-                <th>Substance1</th>
+                <th>Substance<sup>1</sup></th>
                 <th>Enforcement Standard (micrograms per liter except as noted)</th>
                 <th>Preventive Action Limit (micrograms per liter except as noted)</th>
               </tr>
@@ -90,7 +90,7 @@
                 <td>0.7</td>
               </tr>
               <tr>
-                <td proof="needed">
+                <td>
                   <p>Acetochlor ethane sulfonic acid</p>
                   <p>+ oxanilic acid (Acetochlor — ESA + OXA)</p>
                 </td>
@@ -100,7 +100,7 @@
               <tr>
                 <td>Acetone</td>
                 <td>9 mg/l</td>
-                <td class="text-indent-3">1.8 mg/l</td>
+                <td>1.8 mg/l</td>
               </tr>
               <tr>
                 <td>Alachlor</td>
@@ -114,8 +114,8 @@
               </tr>
               <tr>
                 <td>(Alachlor — ESA)</td>
-                <td proof="needed"/>
-                <td proof="needed"/>
+                <td/>
+                <td/>
               </tr>
               <tr>
                 <td>Aldicarb</td>
@@ -129,8 +129,8 @@
               </tr>
               <tr>
                 <td>Ammonia (as N)</td>
-                <td class="text-indent-3">9.7 mg/l</td>
-                <td class="text-indent-2">0.97 mg/l</td>
+                <td>9.7 mg/l</td>
+                <td>0.97 mg/l</td>
               </tr>
               <tr>
                 <td>Antimony</td>
@@ -150,21 +150,22 @@
               <tr>
                 <td>Asbestos</td>
                 <td>7 million fibers per liter (MFL)</td>
-                <td class="text-indent-2">0.7 MFL</td>
+                <td>0.7 MFL</td>
               </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>Atrazine, total chlorinated residues</text>
-        <text>32	0.32</text>
-        <text>Bacteria, total coliform	03	03</text>
-        <text>
-          <table class="layout-table">
-            <tbody>
+              <tr>
+                <td>Atrazine, total chlorinated residues</td>
+                <td>3<sup>2</sup></td>
+                <td>0.3<sup>2</sup></td>
+              </tr>
+              <tr>
+                <td>Bacteria, total coliform</td>
+                <td>0<sup>3</sup></td>
+                <td>0<sup>3</sup></td>
+              </tr>
               <tr>
                 <td>Barium</td>
                 <td>2 mg/l</td>
-                <td class="text-indent-3">0.4 mg/l</td>
+                <td>0.4 mg/l</td>
               </tr>
               <tr>
                 <td>Bentazon</td>
@@ -193,13 +194,13 @@
               </tr>
               <tr>
                 <td>Beta photon emitters</td>
-                <td proof="needed"/>
+                <td/>
                 <td>200</td>
               </tr>
               <tr>
                 <td>Boron</td>
                 <td>1,000</td>
-                <td proof="needed"/>
+                <td/>
               </tr>
               <tr>
                 <td>Bromodichloromethane</td>
@@ -264,7 +265,7 @@
               <tr>
                 <td>Chlorodifluoromethane</td>
                 <td>7 mg/l</td>
-                <td class="text-indent-3">0.7 mg/l</td>
+                <td>0.7 mg/l</td>
               </tr>
               <tr>
                 <td>Chloroethane</td>
@@ -311,13 +312,11 @@
                 <td>1</td>
                 <td>0.1</td>
               </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>Cyanide, free4	200	40</text>
-        <text>
-          <table class="layout-table">
-            <tbody>
+              <tr>
+                <td>Cyanide, free<sup>4</sup></td>
+                <td>200</td>
+                <td>40</td>
+              </tr>
               <tr>
                 <td>Dacthal</td>
                 <td>70</td>
@@ -325,12 +324,12 @@
               </tr>
               <tr>
                 <td>Dalapon</td>
-                <td class="text-indent-2">200</td>
+                <td>200</td>
                 <td>200</td>
               </tr>
               <tr>
                 <td>1,2-Dibromoethane (EDB)</td>
-                <td class="text-indent-1">0.05</td>
+                <td>0.05</td>
                 <td>0.005</td>
               </tr>
               <tr>
@@ -340,27 +339,27 @@
               </tr>
               <tr>
                 <td>1,2-Dibromo-3-chloropropane (DBCP)</td>
-                <td class="text-indent-2">0.2</td>
+                <td>0.2</td>
                 <td>0.02</td>
               </tr>
               <tr>
                 <td>Dibutyl phthalate</td>
-                <td class="text-indent-1">1,000</td>
+                <td>1,000</td>
                 <td>100</td>
               </tr>
               <tr>
                 <td>Dicamba</td>
-                <td class="text-indent-2">300</td>
+                <td>300</td>
                 <td>60</td>
               </tr>
               <tr>
                 <td>1,2-Dichlorobenzene</td>
-                <td class="text-indent-2">600</td>
+                <td>600</td>
                 <td>60</td>
               </tr>
               <tr>
                 <td>1,3-Dichlorobenzene</td>
-                <td class="text-indent-2">600</td>
+                <td>600</td>
                 <td>120</td>
               </tr>
               <tr>
@@ -370,12 +369,12 @@
               </tr>
               <tr>
                 <td>Dichlorodifluoromethane</td>
-                <td class="text-indent-1">1,000</td>
+                <td>1,000</td>
                 <td>200</td>
               </tr>
               <tr>
                 <td>1,1-Dichloroethane</td>
-                <td class="text-indent-2">850</td>
+                <td>850</td>
                 <td>85</td>
               </tr>
               <tr>
@@ -395,7 +394,7 @@
               </tr>
               <tr>
                 <td>1,2-Dichloroethylene (trans)</td>
-                <td class="text-indent-2">100</td>
+                <td>100</td>
                 <td>20</td>
               </tr>
               <tr>
@@ -415,12 +414,12 @@
               </tr>
               <tr>
                 <td>1,3-Dichloropropene (cis/trans)</td>
-                <td class="text-indent-2">0.4</td>
+                <td>0.4</td>
                 <td>0.04</td>
               </tr>
               <tr>
                 <td>Di (2-ethylhexyl) adipate</td>
-                <td class="text-indent-2">100</td>
+                <td>100</td>
                 <td>100</td>
               </tr>
               <tr>
@@ -440,44 +439,32 @@
               </tr>
               <tr>
                 <td>2,4-Dinitrotoluene</td>
-                <td class="text-indent-1">0.05</td>
+                <td>0.05</td>
                 <td>0.005</td>
               </tr>
               <tr>
                 <td>2,6-Dinitrotoluene</td>
-                <td class="text-indent-1">0.05</td>
+                <td>0.05</td>
                 <td>0.005</td>
               </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>
-          <table class="layout-table">
-            <tbody>
               <tr>
-                <td>Dinitrotoluene, total residues5</td>
-                <td class="text-indent-2">0.05</td>
+                <td>Dinitrotoluene, total residues<sup>5</sup></td>
+                <td>0.05</td>
                 <td>0.005</td>
               </tr>
               <tr>
                 <td>Dinoseb</td>
-                <td class="text-indent-2">7</td>
+                <td>7</td>
                 <td>1.4</td>
               </tr>
               <tr>
                 <td>1,4-Dioxane</td>
-                <td class="text-indent-2">3</td>
+                <td>3</td>
                 <td>0.3</td>
               </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>
-          <table class="layout-table">
-            <tbody>
               <tr>
                 <td>Dioxin (2, 3, 7, 8-TCDD)</td>
-                <td class="text-indent-1">0.00003</td>
+                <td>0.00003</td>
                 <td>0.000003</td>
               </tr>
               <tr>
@@ -502,7 +489,7 @@
               </tr>
               <tr>
                 <td>Ethylene dibromide</td>
-                <td class="text-indent-2">0.05</td>
+                <td>0.05</td>
                 <td>0.05</td>
               </tr>
               <tr>
@@ -512,13 +499,13 @@
               </tr>
               <tr>
                 <td>Ethyl ether</td>
-                <td class="text-indent-2">1,000</td>
+                <td>1,000</td>
                 <td>100</td>
               </tr>
               <tr>
                 <td>Ethylene glycol</td>
-                <td class="text-indent-1">14 mg/l</td>
-                <td class="text-indent-3">2.8 mg/l</td>
+                <td>14 mg/l</td>
+                <td>2.8 mg/l</td>
               </tr>
               <tr>
                 <td>Fluoranthene</td>
@@ -532,17 +519,17 @@
               </tr>
               <tr>
                 <td>Fluoride</td>
-                <td class="text-indent-1">4 mg/l</td>
-                <td class="text-indent-3">0.8 mg/l</td>
+                <td>4 mg/l</td>
+                <td>0.8 mg/l</td>
               </tr>
               <tr>
                 <td>Fluorotrichloromethane</td>
-                <td class="text-indent-2">3,490</td>
+                <td>3,490</td>
                 <td>698</td>
               </tr>
               <tr>
                 <td>Formaldehyde</td>
-                <td class="text-indent-2">1,000</td>
+                <td>1,000</td>
                 <td>100</td>
               </tr>
               <tr>
@@ -602,7 +589,7 @@
               </tr>
               <tr>
                 <td>Methanol</td>
-                <td class="text-indent-2">5,000</td>
+                <td>5,000</td>
                 <td>1,000</td>
               </tr>
               <tr>
@@ -617,8 +604,8 @@
               </tr>
               <tr>
                 <td>Methyl ethyl ketone (MEK)</td>
-                <td class="text-indent-1">4 mg/l</td>
-                <td class="text-indent-3">0.8 mg/l</td>
+                <td>4 mg/l</td>
+                <td>0.8 mg/l</td>
               </tr>
               <tr>
                 <td>Methyl isobutyl ketone (MIBK)</td>
@@ -630,19 +617,13 @@
                 <td>60</td>
                 <td>12</td>
               </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>
-          <table class="layout-table">
-            <tbody>
               <tr>
                 <td>Metolachlor/s-Metolachlor</td>
-                <td class="text-indent-2">100</td>
+                <td>100</td>
                 <td>10</td>
               </tr>
               <tr>
-                <td proof="needed">
+                <td>
                   <p>Metolachlor ethane sulfonic acid</p>
                   <p>+</p>
                 </td>
@@ -651,7 +632,7 @@
               </tr>
               <tr>
                 <td>Oxamyl (Vydate)</td>
-                <td class="text-indent-2">200</td>
+                <td>200</td>
                 <td>200</td>
               </tr>
               <tr>
@@ -666,17 +647,17 @@
               </tr>
               <tr>
                 <td>Monochlorobenzene</td>
-                <td class="text-indent-2">100</td>
+                <td>100</td>
                 <td>20</td>
               </tr>
               <tr>
                 <td>Naphthalene</td>
-                <td class="text-indent-2">100</td>
+                <td>100</td>
                 <td>10</td>
               </tr>
               <tr>
                 <td>Nickel</td>
-                <td class="text-indent-2">100</td>
+                <td>100</td>
                 <td>20</td>
               </tr>
               <tr>
@@ -716,17 +697,17 @@
               </tr>
               <tr>
                 <td>Picloram</td>
-                <td class="text-indent-2">500</td>
+                <td>500</td>
                 <td>100</td>
               </tr>
               <tr>
                 <td>Polychlorinated biphenyls (PCBs)</td>
-                <td class="text-indent-2">0.03</td>
+                <td>0.03</td>
                 <td>0.003</td>
               </tr>
               <tr>
                 <td>Prometon</td>
-                <td class="text-indent-2">100</td>
+                <td>100</td>
                 <td>20</td>
               </tr>
               <tr>
@@ -736,7 +717,7 @@
               </tr>
               <tr>
                 <td>Pyrene</td>
-                <td class="text-indent-2">250</td>
+                <td>250</td>
                 <td>50</td>
               </tr>
               <tr>
@@ -761,7 +742,7 @@
               </tr>
               <tr>
                 <td>Styrene</td>
-                <td class="text-indent-2">100</td>
+                <td>100</td>
                 <td>10</td>
               </tr>
               <tr>
@@ -777,19 +758,13 @@
               <tr>
                 <td>1,1,2,2-Tetrachloroethane</td>
                 <td>0.2</td>
-                <td class="text-indent-3">0.02</td>
+                <td>0.02</td>
               </tr>
               <tr>
                 <td>Tetrachloroethylene</td>
                 <td>5</td>
                 <td>0.5</td>
               </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>
-          <table class="layout-table">
-            <tbody>
               <tr>
                 <td>Tetrahydrofuran</td>
                 <td>50</td>
@@ -802,7 +777,7 @@
               </tr>
               <tr>
                 <td>Toluene</td>
-                <td class="text-indent-2">800</td>
+                <td>800</td>
                 <td>160</td>
               </tr>
               <tr>
@@ -817,7 +792,7 @@
               </tr>
               <tr>
                 <td>1,1,1-Trichloroethane</td>
-                <td class="text-indent-2">200</td>
+                <td>200</td>
                 <td>40</td>
               </tr>
               <tr>
@@ -842,15 +817,15 @@
               </tr>
               <tr>
                 <td>Trifluralin</td>
-                <td class="text-indent-2">7.5</td>
+                <td>7.5</td>
                 <td>0.75</td>
               </tr>
               <tr>
-                <td proof="needed">
+                <td>
                   <p>Trimethylbenzenes (1,2,4- and</p>
                   <p>1,3,5- combined)</p>
                 </td>
-                <td class="text-indent-2">480</td>
+                <td>480</td>
                 <td>96</td>
               </tr>
               <tr>
@@ -860,13 +835,13 @@
               </tr>
               <tr>
                 <td>Vinyl chloride</td>
-                <td class="text-indent-2">0.2</td>
+                <td>0.2</td>
                 <td>0.02</td>
               </tr>
               <tr>
-                <td>Xylene4</td>
-                <td class="text-indent-2">2 mg/l</td>
-                <td class="text-indent-3">0.4 mg/l</td>
+                <td>Xylene<sup>6</sup></td>
+                <td>2 mg/l</td>
+                <td>0.4 mg/l</td>
               </tr>
             </tbody>
           </table>
@@ -890,12 +865,12 @@
           <strong>Public Welfare Groundwater Quality Standards</strong>
         </text>
         <text>
-          <table class="layout-table">
+          <table>
             <thead>
               <tr>
                 <th>Substance</th>
                 <th>Enforcement Standard (milligrams per liter except as noted)</th>
-                <th proof="needed">
+                <th>
                   <p>Preventive Action Limit</p>
                   <p>(milligrams per liter except as noted)</p>
                 </th>
@@ -910,7 +885,7 @@
               <tr>
                 <td>Color</td>
                 <td>15 color units</td>
-                <td class="text-indent-1">7.5 color units</td>
+                <td>7.5 color units</td>
               </tr>
               <tr>
                 <td>Copper</td>
@@ -1088,7 +1063,7 @@
           <strong>Minimum Increase</strong>
         </aftertext>
         <aftertext>
-          <table class="layout-table">
+          <table>
             <thead>
               <tr>
                 <th>Parameter</th>
@@ -1122,7 +1097,7 @@
               </tr>
               <tr>
                 <td>Nitrogen series</td>
-                <td proof="needed"/>
+                <td/>
               </tr>
               <tr>
                 <td class="text-indent-5">Ammonia nitrogen</td>
@@ -1731,7 +1706,7 @@
     <section cache:ref-path="II|§562-10">
       <prefix>§</prefix>
       <num>562-10</num>
-      <heading>Powers of Department of Tribal Utilities and Tribal Legislature.<fn proof="needed" path="|II|§562-10|footnotes|1">1</fn></heading>
+      <heading>Powers of Department of Tribal Utilities and Tribal Legislature.<fn path="|II|§562-10|footnotes|1">1</fn></heading>
       <text>The Department of Tribal Utilities of the Menominee Indian Tribe shall have the power to construct waterlines for public use and shall have the power to lay water pipes in and through the alleys, streets, and public grounds of the Menominee Indian Tribe and, generally, to do all such work as may be found necessary or convenient in the management of the water system. The Menominee Department of Tribal Utilities shall have the power by itself, its agents, servants and employees to enter upon any land for the purpose of making examination or supervise in the performance of their duties under <cite path="|II|562|II">this article</cite> without liability therefor, and the Menominee Tribal Legislature shall have the power to purchase and acquire for the Department of Tribal Utilities all real and personal property which may be necessary for construction of the water system or for any repair, remodeling, or additions thereto.</text>
       <footnotes>
         <footnote>
@@ -1749,7 +1724,7 @@
     <section cache:ref-path="II|§562-12">
       <prefix>§</prefix>
       <num>562-12</num>
-      <heading>User rules and regulations.<fn proof="needed" path="|II|§562-12|footnotes|2">2</fn></heading>
+      <heading>User rules and regulations.<fn path="|II|§562-12|footnotes|2">2</fn></heading>
       <text>The rules, regulations, and water rates of the Menominee Department of Tribal Utilities of the Menominee Indian Tribe hereinafter set forth shall be considered a part of the contract with every person, company or corporation who or which is connected with the water system of the Menominee Tribe, and every such person, company, or corporation by connecting with the water system shall be considered as expressing his or its assent to be bound thereby. Whenever any of said rules and regulations, or such others as said Department of Tribal Utilities of the Menominee Tribe may hereafter adopt, are violated, the service shall be shut off from the building or place of such violation (even though two or more parties are receiving service through the same connection) and shall not be reestablished except by order of the Director of Tribal Utilities and on payment of all arrears and the expenses and established charges of shutting off and putting on and such other terms as the Director of Tribal Utilities shall determine, and a satisfactory understanding with the party that no further cause for complaint shall arise. In case of such violation, said Director of Tribal Utilities, furthermore, may declare any payment made for the service by the party or parties committing such violation to be forfeited, and the same shall thereupon be forfeited. The right is reserved to the Menominee Department of Tribal Utilities with approval from the Menominee Tribal Legislature by motion to change said rules, regulations, and water rates from time to time as it may deem advisable and to make special rates and contracts in all proper cases.</text>
       <para>
         <num>A.</num>
@@ -1809,7 +1784,7 @@
     <section cache:ref-path="II|§562-15">
       <prefix>§</prefix>
       <num>562-15</num>
-      <heading>Installation of house laterals.<fn proof="needed" path="|II|§562-15|footnotes|3">3</fn></heading>
+      <heading>Installation of house laterals.<fn path="|II|§562-15|footnotes|3">3</fn></heading>
       <text>All service pipes (laterals) on private property will be installed in accordance with State of Wisconsin Administrative Code Chapter Comm 82, Design, Construction, Installation, Supervision and Inspection of Plumbing. All buildings under construction will be inspected by a designated representative of the Department of Tribal Utilities. The building shall be inspected upon completion of placement of the pipe and before backfilling and tested before or after backfilling. Any service pipe that is backfilled prior to inspection shall be reexcavated to allow said inspection at the owner's expense.</text>
       <footnotes>
         <footnote>

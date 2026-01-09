@@ -418,7 +418,7 @@
       <text>SKID (SKIDDING) — Short-distance moving of logs or felled trees from the stump to a point of loading (WI-DNR, Wisconsin Forest Management Guidelines).</text>
       <text>SLOPES — Follow Wisconsin's Forestry Best Management Practices For Water Quality when addressing slopes. In no case shall mechanical equipment be used on slopes exceeding 50%. Buffer strip width shall be increased from 100 feet on each side of a stream, water body or wetland in accordance with the following table.</text>
       <text>
-        <table class="no-border-heading">
+        <table>
           <thead>
             <tr>
               <th colspan="2">Table 1</th>
@@ -428,7 +428,7 @@
             </tr>
             <tr>
               <th>Slope of Land Above Stream, Water Body or Wetland</th>
-              <th class="text-indent-3">Minimum Width of Strip (feet)</th>
+              <th>Minimum Width of Strip (feet)</th>
             </tr>
           </thead>
           <tbody>
@@ -452,24 +452,6 @@
               <td>41% to 50%</td>
               <td>175</td>
             </tr>
-          </tbody>
-        </table>
-      </text>
-      <text>
-        <table class="no-border-heading">
-          <thead>
-            <tr>
-              <th colspan="2">Table 1</th>
-            </tr>
-            <tr>
-              <th colspan="2">Guidelines for Buffer Strip Widths</th>
-            </tr>
-            <tr>
-              <th>Slope of Land Above Stream, Water Body or Wetland</th>
-              <th class="text-indent-3">Minimum Width of Strip (feet)</th>
-            </tr>
-          </thead>
-          <tbody>
             <tr>
               <td>51%+</td>
               <td>Activity not allowed due to high erosion potential. Extreme care must be taken to prevent movement of soil.</td>
@@ -541,7 +523,7 @@
           <num>(1)</num>
           <text>Buffers adjacent to any river, stream, or wetland, which may contain steep slopes or highly erodible soils, shall follow the guidelines listed in Table 1 of <cite path="§340-20|D.|(1)">this subsection</cite>, unless a lesser buffer is recommended by the Environmental Services Department.</text>
           <text>
-            <table class="no-border-heading">
+            <table>
               <thead>
                 <tr>
                   <th colspan="2">Table 1</th>
@@ -551,7 +533,7 @@
                 </tr>
                 <tr>
                   <th>Slope of Land Above Stream, Water Body or Wetland</th>
-                  <th class="text-indent-2">Minimum Width of Strip (feet)</th>
+                  <th>Minimum Width of Strip (feet)</th>
                 </tr>
               </thead>
               <tbody>
